@@ -1,0 +1,720 @@
+INFO - 2018-01-01 13:10:40 --> Config Class Initialized
+INFO - 2018-01-01 13:10:40 --> Hooks Class Initialized
+DEBUG - 2018-01-01 13:10:40 --> UTF-8 Support Enabled
+INFO - 2018-01-01 13:10:40 --> Utf8 Class Initialized
+INFO - 2018-01-01 13:10:40 --> URI Class Initialized
+INFO - 2018-01-01 13:10:40 --> Router Class Initialized
+INFO - 2018-01-01 13:10:40 --> Output Class Initialized
+INFO - 2018-01-01 13:10:40 --> Security Class Initialized
+DEBUG - 2018-01-01 13:10:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-01 13:10:40 --> Input Class Initialized
+INFO - 2018-01-01 13:10:40 --> Language Class Initialized
+INFO - 2018-01-01 13:10:40 --> Loader Class Initialized
+INFO - 2018-01-01 13:10:40 --> Helper loaded: url_helper
+INFO - 2018-01-01 13:10:40 --> Controller Class Initialized
+INFO - 2018-01-01 13:10:40 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\synapse.php
+INFO - 2018-01-01 13:10:40 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_head_dev.php
+INFO - 2018-01-01 13:10:40 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento.php
+INFO - 2018-01-01 13:10:40 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_scripts_dev.php
+INFO - 2018-01-01 13:10:40 --> Final output sent to browser
+DEBUG - 2018-01-01 13:10:40 --> Total execution time: 0.0598
+INFO - 2018-01-01 13:10:44 --> Config Class Initialized
+INFO - 2018-01-01 13:10:44 --> Hooks Class Initialized
+DEBUG - 2018-01-01 13:10:44 --> UTF-8 Support Enabled
+INFO - 2018-01-01 13:10:44 --> Utf8 Class Initialized
+INFO - 2018-01-01 13:10:44 --> URI Class Initialized
+INFO - 2018-01-01 13:10:44 --> Router Class Initialized
+INFO - 2018-01-01 13:10:44 --> Output Class Initialized
+INFO - 2018-01-01 13:10:44 --> Security Class Initialized
+DEBUG - 2018-01-01 13:10:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-01 13:10:44 --> Input Class Initialized
+INFO - 2018-01-01 13:10:44 --> Language Class Initialized
+INFO - 2018-01-01 13:10:44 --> Loader Class Initialized
+INFO - 2018-01-01 13:10:44 --> Helper loaded: url_helper
+INFO - 2018-01-01 13:10:44 --> Controller Class Initialized
+INFO - 2018-01-01 13:10:44 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\synapse.php
+INFO - 2018-01-01 13:10:44 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_head_dev.php
+INFO - 2018-01-01 13:10:44 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento.php
+INFO - 2018-01-01 13:10:44 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_scripts_dev.php
+INFO - 2018-01-01 13:10:44 --> Final output sent to browser
+DEBUG - 2018-01-01 13:10:44 --> Total execution time: 0.0442
+INFO - 2018-01-01 20:03:54 --> Config Class Initialized
+INFO - 2018-01-01 20:03:55 --> Hooks Class Initialized
+DEBUG - 2018-01-01 20:03:55 --> UTF-8 Support Enabled
+INFO - 2018-01-01 20:03:55 --> Utf8 Class Initialized
+INFO - 2018-01-01 20:03:55 --> URI Class Initialized
+INFO - 2018-01-01 20:03:55 --> Router Class Initialized
+INFO - 2018-01-01 20:03:55 --> Output Class Initialized
+INFO - 2018-01-01 20:03:55 --> Security Class Initialized
+DEBUG - 2018-01-01 20:03:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-01 20:03:55 --> Input Class Initialized
+INFO - 2018-01-01 20:03:55 --> Language Class Initialized
+INFO - 2018-01-01 20:03:55 --> Loader Class Initialized
+INFO - 2018-01-01 20:03:55 --> Helper loaded: url_helper
+INFO - 2018-01-01 20:03:55 --> Controller Class Initialized
+INFO - 2018-01-01 20:03:55 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\synapse.php
+INFO - 2018-01-01 20:03:55 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_head_dev.php
+INFO - 2018-01-01 20:03:55 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento.php
+INFO - 2018-01-01 20:03:55 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_scripts_dev.php
+INFO - 2018-01-01 20:03:55 --> Final output sent to browser
+DEBUG - 2018-01-01 20:03:55 --> Total execution time: 0.0400
+INFO - 2018-01-01 20:07:16 --> Config Class Initialized
+INFO - 2018-01-01 20:07:16 --> Hooks Class Initialized
+DEBUG - 2018-01-01 20:07:16 --> UTF-8 Support Enabled
+INFO - 2018-01-01 20:07:16 --> Utf8 Class Initialized
+INFO - 2018-01-01 20:07:16 --> URI Class Initialized
+INFO - 2018-01-01 20:07:16 --> Router Class Initialized
+INFO - 2018-01-01 20:07:16 --> Output Class Initialized
+INFO - 2018-01-01 20:07:16 --> Security Class Initialized
+DEBUG - 2018-01-01 20:07:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-01 20:07:16 --> Input Class Initialized
+INFO - 2018-01-01 20:07:16 --> Language Class Initialized
+INFO - 2018-01-01 20:07:16 --> Loader Class Initialized
+INFO - 2018-01-01 20:07:16 --> Helper loaded: url_helper
+INFO - 2018-01-01 20:07:16 --> Controller Class Initialized
+INFO - 2018-01-01 20:07:16 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\synapse.php
+INFO - 2018-01-01 20:07:16 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_head_dev.php
+INFO - 2018-01-01 20:07:16 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento.php
+INFO - 2018-01-01 20:07:16 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_scripts_dev.php
+INFO - 2018-01-01 20:07:16 --> Final output sent to browser
+DEBUG - 2018-01-01 20:07:16 --> Total execution time: 0.0490
+INFO - 2018-01-01 20:07:32 --> Config Class Initialized
+INFO - 2018-01-01 20:07:32 --> Hooks Class Initialized
+DEBUG - 2018-01-01 20:07:32 --> UTF-8 Support Enabled
+INFO - 2018-01-01 20:07:32 --> Utf8 Class Initialized
+INFO - 2018-01-01 20:07:32 --> URI Class Initialized
+INFO - 2018-01-01 20:07:32 --> Router Class Initialized
+INFO - 2018-01-01 20:07:32 --> Output Class Initialized
+INFO - 2018-01-01 20:07:32 --> Security Class Initialized
+DEBUG - 2018-01-01 20:07:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-01 20:07:32 --> Input Class Initialized
+INFO - 2018-01-01 20:07:32 --> Language Class Initialized
+INFO - 2018-01-01 20:07:32 --> Loader Class Initialized
+INFO - 2018-01-01 20:07:32 --> Helper loaded: url_helper
+INFO - 2018-01-01 20:07:32 --> Controller Class Initialized
+INFO - 2018-01-01 20:07:32 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\synapse.php
+INFO - 2018-01-01 20:07:32 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_head_dev.php
+INFO - 2018-01-01 20:07:32 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento.php
+INFO - 2018-01-01 20:07:32 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_scripts_dev.php
+INFO - 2018-01-01 20:07:32 --> Final output sent to browser
+DEBUG - 2018-01-01 20:07:32 --> Total execution time: 0.0479
+INFO - 2018-01-01 20:09:05 --> Config Class Initialized
+INFO - 2018-01-01 20:09:05 --> Hooks Class Initialized
+DEBUG - 2018-01-01 20:09:05 --> UTF-8 Support Enabled
+INFO - 2018-01-01 20:09:05 --> Utf8 Class Initialized
+INFO - 2018-01-01 20:09:05 --> URI Class Initialized
+INFO - 2018-01-01 20:09:05 --> Router Class Initialized
+INFO - 2018-01-01 20:09:05 --> Output Class Initialized
+INFO - 2018-01-01 20:09:05 --> Security Class Initialized
+DEBUG - 2018-01-01 20:09:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-01 20:09:05 --> Input Class Initialized
+INFO - 2018-01-01 20:09:05 --> Language Class Initialized
+INFO - 2018-01-01 20:09:05 --> Loader Class Initialized
+INFO - 2018-01-01 20:09:05 --> Helper loaded: url_helper
+INFO - 2018-01-01 20:09:05 --> Controller Class Initialized
+INFO - 2018-01-01 20:09:05 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\synapse.php
+INFO - 2018-01-01 20:09:05 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_head_dev.php
+INFO - 2018-01-01 20:09:05 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento.php
+INFO - 2018-01-01 20:09:05 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_scripts_dev.php
+INFO - 2018-01-01 20:09:05 --> Final output sent to browser
+DEBUG - 2018-01-01 20:09:05 --> Total execution time: 0.0581
+INFO - 2018-01-01 20:26:14 --> Config Class Initialized
+INFO - 2018-01-01 20:26:14 --> Hooks Class Initialized
+DEBUG - 2018-01-01 20:26:14 --> UTF-8 Support Enabled
+INFO - 2018-01-01 20:26:14 --> Utf8 Class Initialized
+INFO - 2018-01-01 20:26:14 --> URI Class Initialized
+INFO - 2018-01-01 20:26:14 --> Router Class Initialized
+INFO - 2018-01-01 20:26:14 --> Output Class Initialized
+INFO - 2018-01-01 20:26:14 --> Security Class Initialized
+DEBUG - 2018-01-01 20:26:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-01 20:26:14 --> Input Class Initialized
+INFO - 2018-01-01 20:26:14 --> Language Class Initialized
+INFO - 2018-01-01 20:26:14 --> Loader Class Initialized
+INFO - 2018-01-01 20:26:14 --> Helper loaded: url_helper
+INFO - 2018-01-01 20:26:14 --> Controller Class Initialized
+INFO - 2018-01-01 20:26:14 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\synapse.php
+INFO - 2018-01-01 20:26:14 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_head_dev.php
+INFO - 2018-01-01 20:26:14 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento.php
+INFO - 2018-01-01 20:26:14 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_scripts_dev.php
+INFO - 2018-01-01 20:26:14 --> Final output sent to browser
+DEBUG - 2018-01-01 20:26:14 --> Total execution time: 0.0635
+INFO - 2018-01-01 20:27:54 --> Config Class Initialized
+INFO - 2018-01-01 20:27:54 --> Hooks Class Initialized
+DEBUG - 2018-01-01 20:27:54 --> UTF-8 Support Enabled
+INFO - 2018-01-01 20:27:54 --> Utf8 Class Initialized
+INFO - 2018-01-01 20:27:54 --> URI Class Initialized
+INFO - 2018-01-01 20:27:54 --> Router Class Initialized
+INFO - 2018-01-01 20:27:54 --> Output Class Initialized
+INFO - 2018-01-01 20:27:54 --> Security Class Initialized
+DEBUG - 2018-01-01 20:27:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-01 20:27:54 --> Input Class Initialized
+INFO - 2018-01-01 20:27:54 --> Language Class Initialized
+INFO - 2018-01-01 20:27:54 --> Loader Class Initialized
+INFO - 2018-01-01 20:27:54 --> Helper loaded: url_helper
+INFO - 2018-01-01 20:27:54 --> Controller Class Initialized
+INFO - 2018-01-01 20:27:54 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\synapse.php
+INFO - 2018-01-01 20:27:54 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_head_dev.php
+INFO - 2018-01-01 20:27:54 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento.php
+INFO - 2018-01-01 20:27:54 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_scripts_dev.php
+INFO - 2018-01-01 20:27:54 --> Final output sent to browser
+DEBUG - 2018-01-01 20:27:54 --> Total execution time: 0.0547
+INFO - 2018-01-01 20:30:18 --> Config Class Initialized
+INFO - 2018-01-01 20:30:18 --> Hooks Class Initialized
+DEBUG - 2018-01-01 20:30:18 --> UTF-8 Support Enabled
+INFO - 2018-01-01 20:30:18 --> Utf8 Class Initialized
+INFO - 2018-01-01 20:30:18 --> URI Class Initialized
+INFO - 2018-01-01 20:30:18 --> Router Class Initialized
+INFO - 2018-01-01 20:30:18 --> Output Class Initialized
+INFO - 2018-01-01 20:30:18 --> Security Class Initialized
+DEBUG - 2018-01-01 20:30:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-01 20:30:18 --> Input Class Initialized
+INFO - 2018-01-01 20:30:18 --> Language Class Initialized
+INFO - 2018-01-01 20:30:18 --> Loader Class Initialized
+INFO - 2018-01-01 20:30:18 --> Helper loaded: url_helper
+INFO - 2018-01-01 20:30:18 --> Controller Class Initialized
+INFO - 2018-01-01 20:30:18 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\synapse.php
+INFO - 2018-01-01 20:30:18 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_head_dev.php
+INFO - 2018-01-01 20:30:18 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento.php
+INFO - 2018-01-01 20:30:18 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_scripts_dev.php
+INFO - 2018-01-01 20:30:18 --> Final output sent to browser
+DEBUG - 2018-01-01 20:30:18 --> Total execution time: 0.0571
+INFO - 2018-01-01 20:30:50 --> Config Class Initialized
+INFO - 2018-01-01 20:30:50 --> Hooks Class Initialized
+DEBUG - 2018-01-01 20:30:50 --> UTF-8 Support Enabled
+INFO - 2018-01-01 20:30:50 --> Utf8 Class Initialized
+INFO - 2018-01-01 20:30:50 --> URI Class Initialized
+INFO - 2018-01-01 20:30:50 --> Router Class Initialized
+INFO - 2018-01-01 20:30:50 --> Output Class Initialized
+INFO - 2018-01-01 20:30:50 --> Security Class Initialized
+DEBUG - 2018-01-01 20:30:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-01 20:30:50 --> Input Class Initialized
+INFO - 2018-01-01 20:30:50 --> Language Class Initialized
+INFO - 2018-01-01 20:30:50 --> Loader Class Initialized
+INFO - 2018-01-01 20:30:50 --> Helper loaded: url_helper
+INFO - 2018-01-01 20:30:50 --> Controller Class Initialized
+INFO - 2018-01-01 20:30:50 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\synapse.php
+INFO - 2018-01-01 20:30:50 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_head_dev.php
+INFO - 2018-01-01 20:30:50 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento.php
+INFO - 2018-01-01 20:30:50 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_scripts_dev.php
+INFO - 2018-01-01 20:30:50 --> Final output sent to browser
+DEBUG - 2018-01-01 20:30:50 --> Total execution time: 0.0607
+INFO - 2018-01-01 20:32:08 --> Config Class Initialized
+INFO - 2018-01-01 20:32:08 --> Hooks Class Initialized
+DEBUG - 2018-01-01 20:32:08 --> UTF-8 Support Enabled
+INFO - 2018-01-01 20:32:08 --> Utf8 Class Initialized
+INFO - 2018-01-01 20:32:08 --> URI Class Initialized
+INFO - 2018-01-01 20:32:08 --> Router Class Initialized
+INFO - 2018-01-01 20:32:08 --> Output Class Initialized
+INFO - 2018-01-01 20:32:08 --> Security Class Initialized
+DEBUG - 2018-01-01 20:32:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-01 20:32:08 --> Input Class Initialized
+INFO - 2018-01-01 20:32:08 --> Language Class Initialized
+INFO - 2018-01-01 20:32:08 --> Loader Class Initialized
+INFO - 2018-01-01 20:32:08 --> Helper loaded: url_helper
+INFO - 2018-01-01 20:32:08 --> Controller Class Initialized
+INFO - 2018-01-01 20:32:08 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\synapse.php
+INFO - 2018-01-01 20:32:08 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_head_dev.php
+INFO - 2018-01-01 20:32:08 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento.php
+INFO - 2018-01-01 20:32:08 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_scripts_dev.php
+INFO - 2018-01-01 20:32:08 --> Final output sent to browser
+DEBUG - 2018-01-01 20:32:08 --> Total execution time: 0.0501
+INFO - 2018-01-01 20:32:11 --> Config Class Initialized
+INFO - 2018-01-01 20:32:11 --> Hooks Class Initialized
+DEBUG - 2018-01-01 20:32:11 --> UTF-8 Support Enabled
+INFO - 2018-01-01 20:32:11 --> Utf8 Class Initialized
+INFO - 2018-01-01 20:32:11 --> URI Class Initialized
+INFO - 2018-01-01 20:32:11 --> Router Class Initialized
+INFO - 2018-01-01 20:32:11 --> Output Class Initialized
+INFO - 2018-01-01 20:32:11 --> Security Class Initialized
+DEBUG - 2018-01-01 20:32:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-01 20:32:11 --> Input Class Initialized
+INFO - 2018-01-01 20:32:11 --> Language Class Initialized
+INFO - 2018-01-01 20:32:11 --> Loader Class Initialized
+INFO - 2018-01-01 20:32:11 --> Helper loaded: url_helper
+INFO - 2018-01-01 20:32:11 --> Controller Class Initialized
+INFO - 2018-01-01 20:32:11 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\synapse.php
+INFO - 2018-01-01 20:32:11 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_head_dev.php
+INFO - 2018-01-01 20:32:11 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento.php
+INFO - 2018-01-01 20:32:11 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_scripts_dev.php
+INFO - 2018-01-01 20:32:11 --> Final output sent to browser
+DEBUG - 2018-01-01 20:32:11 --> Total execution time: 0.0606
+INFO - 2018-01-01 20:33:56 --> Config Class Initialized
+INFO - 2018-01-01 20:33:56 --> Hooks Class Initialized
+DEBUG - 2018-01-01 20:33:56 --> UTF-8 Support Enabled
+INFO - 2018-01-01 20:33:56 --> Utf8 Class Initialized
+INFO - 2018-01-01 20:33:56 --> URI Class Initialized
+INFO - 2018-01-01 20:33:56 --> Router Class Initialized
+INFO - 2018-01-01 20:33:56 --> Output Class Initialized
+INFO - 2018-01-01 20:33:56 --> Security Class Initialized
+DEBUG - 2018-01-01 20:33:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-01 20:33:56 --> Input Class Initialized
+INFO - 2018-01-01 20:33:56 --> Language Class Initialized
+INFO - 2018-01-01 20:33:56 --> Loader Class Initialized
+INFO - 2018-01-01 20:33:56 --> Helper loaded: url_helper
+INFO - 2018-01-01 20:33:56 --> Controller Class Initialized
+INFO - 2018-01-01 20:33:56 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\synapse.php
+INFO - 2018-01-01 20:33:56 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_head_dev.php
+INFO - 2018-01-01 20:33:56 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento.php
+INFO - 2018-01-01 20:33:56 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_scripts_dev.php
+INFO - 2018-01-01 20:33:56 --> Final output sent to browser
+DEBUG - 2018-01-01 20:33:56 --> Total execution time: 0.0518
+INFO - 2018-01-01 20:34:14 --> Config Class Initialized
+INFO - 2018-01-01 20:34:14 --> Hooks Class Initialized
+DEBUG - 2018-01-01 20:34:14 --> UTF-8 Support Enabled
+INFO - 2018-01-01 20:34:14 --> Utf8 Class Initialized
+INFO - 2018-01-01 20:34:14 --> URI Class Initialized
+INFO - 2018-01-01 20:34:14 --> Router Class Initialized
+INFO - 2018-01-01 20:34:14 --> Output Class Initialized
+INFO - 2018-01-01 20:34:14 --> Security Class Initialized
+DEBUG - 2018-01-01 20:34:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-01 20:34:14 --> Input Class Initialized
+INFO - 2018-01-01 20:34:14 --> Language Class Initialized
+INFO - 2018-01-01 20:34:14 --> Loader Class Initialized
+INFO - 2018-01-01 20:34:14 --> Helper loaded: url_helper
+INFO - 2018-01-01 20:34:14 --> Controller Class Initialized
+INFO - 2018-01-01 20:34:14 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\synapse.php
+INFO - 2018-01-01 20:34:14 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_head_dev.php
+INFO - 2018-01-01 20:34:14 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento.php
+INFO - 2018-01-01 20:34:14 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_scripts_dev.php
+INFO - 2018-01-01 20:34:14 --> Final output sent to browser
+DEBUG - 2018-01-01 20:34:14 --> Total execution time: 0.0510
+INFO - 2018-01-01 20:34:35 --> Config Class Initialized
+INFO - 2018-01-01 20:34:35 --> Hooks Class Initialized
+DEBUG - 2018-01-01 20:34:35 --> UTF-8 Support Enabled
+INFO - 2018-01-01 20:34:35 --> Utf8 Class Initialized
+INFO - 2018-01-01 20:34:35 --> URI Class Initialized
+INFO - 2018-01-01 20:34:35 --> Router Class Initialized
+INFO - 2018-01-01 20:34:35 --> Output Class Initialized
+INFO - 2018-01-01 20:34:35 --> Security Class Initialized
+DEBUG - 2018-01-01 20:34:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-01 20:34:35 --> Input Class Initialized
+INFO - 2018-01-01 20:34:35 --> Language Class Initialized
+INFO - 2018-01-01 20:34:35 --> Loader Class Initialized
+INFO - 2018-01-01 20:34:35 --> Helper loaded: url_helper
+INFO - 2018-01-01 20:34:35 --> Controller Class Initialized
+INFO - 2018-01-01 20:34:35 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\synapse.php
+INFO - 2018-01-01 20:34:35 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_head_dev.php
+INFO - 2018-01-01 20:34:35 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento.php
+INFO - 2018-01-01 20:34:35 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_scripts_dev.php
+INFO - 2018-01-01 20:34:35 --> Final output sent to browser
+DEBUG - 2018-01-01 20:34:35 --> Total execution time: 0.0509
+INFO - 2018-01-01 20:35:56 --> Config Class Initialized
+INFO - 2018-01-01 20:35:56 --> Hooks Class Initialized
+DEBUG - 2018-01-01 20:35:56 --> UTF-8 Support Enabled
+INFO - 2018-01-01 20:35:56 --> Utf8 Class Initialized
+INFO - 2018-01-01 20:35:56 --> URI Class Initialized
+INFO - 2018-01-01 20:35:56 --> Router Class Initialized
+INFO - 2018-01-01 20:35:56 --> Output Class Initialized
+INFO - 2018-01-01 20:35:56 --> Security Class Initialized
+DEBUG - 2018-01-01 20:35:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-01 20:35:56 --> Input Class Initialized
+INFO - 2018-01-01 20:35:56 --> Language Class Initialized
+INFO - 2018-01-01 20:35:56 --> Loader Class Initialized
+INFO - 2018-01-01 20:35:56 --> Helper loaded: url_helper
+INFO - 2018-01-01 20:35:56 --> Controller Class Initialized
+INFO - 2018-01-01 20:35:56 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\synapse.php
+INFO - 2018-01-01 20:35:56 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_head_dev.php
+INFO - 2018-01-01 20:35:56 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento.php
+INFO - 2018-01-01 20:35:56 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_scripts_dev.php
+INFO - 2018-01-01 20:35:56 --> Final output sent to browser
+DEBUG - 2018-01-01 20:35:56 --> Total execution time: 0.0469
+INFO - 2018-01-01 20:36:06 --> Config Class Initialized
+INFO - 2018-01-01 20:36:06 --> Hooks Class Initialized
+DEBUG - 2018-01-01 20:36:06 --> UTF-8 Support Enabled
+INFO - 2018-01-01 20:36:06 --> Utf8 Class Initialized
+INFO - 2018-01-01 20:36:06 --> URI Class Initialized
+INFO - 2018-01-01 20:36:06 --> Router Class Initialized
+INFO - 2018-01-01 20:36:06 --> Output Class Initialized
+INFO - 2018-01-01 20:36:06 --> Security Class Initialized
+DEBUG - 2018-01-01 20:36:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-01 20:36:06 --> Input Class Initialized
+INFO - 2018-01-01 20:36:06 --> Language Class Initialized
+INFO - 2018-01-01 20:36:06 --> Loader Class Initialized
+INFO - 2018-01-01 20:36:06 --> Helper loaded: url_helper
+INFO - 2018-01-01 20:36:06 --> Controller Class Initialized
+INFO - 2018-01-01 20:36:06 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\synapse.php
+INFO - 2018-01-01 20:36:06 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_head_dev.php
+INFO - 2018-01-01 20:36:06 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento.php
+INFO - 2018-01-01 20:36:06 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_scripts_dev.php
+INFO - 2018-01-01 20:36:06 --> Final output sent to browser
+DEBUG - 2018-01-01 20:36:06 --> Total execution time: 0.0422
+INFO - 2018-01-01 20:37:10 --> Config Class Initialized
+INFO - 2018-01-01 20:37:10 --> Hooks Class Initialized
+DEBUG - 2018-01-01 20:37:10 --> UTF-8 Support Enabled
+INFO - 2018-01-01 20:37:10 --> Utf8 Class Initialized
+INFO - 2018-01-01 20:37:10 --> URI Class Initialized
+INFO - 2018-01-01 20:37:10 --> Router Class Initialized
+INFO - 2018-01-01 20:37:10 --> Output Class Initialized
+INFO - 2018-01-01 20:37:10 --> Security Class Initialized
+DEBUG - 2018-01-01 20:37:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-01 20:37:10 --> Input Class Initialized
+INFO - 2018-01-01 20:37:10 --> Language Class Initialized
+INFO - 2018-01-01 20:37:10 --> Loader Class Initialized
+INFO - 2018-01-01 20:37:10 --> Helper loaded: url_helper
+INFO - 2018-01-01 20:37:10 --> Controller Class Initialized
+INFO - 2018-01-01 20:37:10 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\synapse.php
+INFO - 2018-01-01 20:37:10 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_head_dev.php
+INFO - 2018-01-01 20:37:10 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento.php
+INFO - 2018-01-01 20:37:10 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_scripts_dev.php
+INFO - 2018-01-01 20:37:10 --> Final output sent to browser
+DEBUG - 2018-01-01 20:37:10 --> Total execution time: 0.0520
+INFO - 2018-01-01 20:37:11 --> Config Class Initialized
+INFO - 2018-01-01 20:37:11 --> Hooks Class Initialized
+DEBUG - 2018-01-01 20:37:11 --> UTF-8 Support Enabled
+INFO - 2018-01-01 20:37:11 --> Utf8 Class Initialized
+INFO - 2018-01-01 20:37:11 --> URI Class Initialized
+INFO - 2018-01-01 20:37:11 --> Router Class Initialized
+INFO - 2018-01-01 20:37:11 --> Output Class Initialized
+INFO - 2018-01-01 20:37:11 --> Security Class Initialized
+DEBUG - 2018-01-01 20:37:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-01 20:37:11 --> Input Class Initialized
+INFO - 2018-01-01 20:37:11 --> Language Class Initialized
+INFO - 2018-01-01 20:37:12 --> Loader Class Initialized
+INFO - 2018-01-01 20:37:12 --> Helper loaded: url_helper
+INFO - 2018-01-01 20:37:12 --> Controller Class Initialized
+INFO - 2018-01-01 20:37:12 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\synapse.php
+INFO - 2018-01-01 20:37:12 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_head_dev.php
+INFO - 2018-01-01 20:37:12 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento.php
+INFO - 2018-01-01 20:37:12 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_scripts_dev.php
+INFO - 2018-01-01 20:37:12 --> Final output sent to browser
+DEBUG - 2018-01-01 20:37:12 --> Total execution time: 0.0415
+INFO - 2018-01-01 20:37:56 --> Config Class Initialized
+INFO - 2018-01-01 20:37:56 --> Hooks Class Initialized
+DEBUG - 2018-01-01 20:37:56 --> UTF-8 Support Enabled
+INFO - 2018-01-01 20:37:56 --> Utf8 Class Initialized
+INFO - 2018-01-01 20:37:56 --> URI Class Initialized
+INFO - 2018-01-01 20:37:56 --> Router Class Initialized
+INFO - 2018-01-01 20:37:56 --> Output Class Initialized
+INFO - 2018-01-01 20:37:56 --> Security Class Initialized
+DEBUG - 2018-01-01 20:37:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-01 20:37:56 --> Input Class Initialized
+INFO - 2018-01-01 20:37:56 --> Language Class Initialized
+INFO - 2018-01-01 20:37:56 --> Loader Class Initialized
+INFO - 2018-01-01 20:37:56 --> Helper loaded: url_helper
+INFO - 2018-01-01 20:37:56 --> Controller Class Initialized
+INFO - 2018-01-01 20:37:56 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\synapse.php
+INFO - 2018-01-01 20:37:56 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_head_dev.php
+INFO - 2018-01-01 20:37:56 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento.php
+INFO - 2018-01-01 20:37:56 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_scripts_dev.php
+INFO - 2018-01-01 20:37:56 --> Final output sent to browser
+DEBUG - 2018-01-01 20:37:56 --> Total execution time: 0.0560
+INFO - 2018-01-01 20:37:58 --> Config Class Initialized
+INFO - 2018-01-01 20:37:58 --> Hooks Class Initialized
+DEBUG - 2018-01-01 20:37:58 --> UTF-8 Support Enabled
+INFO - 2018-01-01 20:37:58 --> Utf8 Class Initialized
+INFO - 2018-01-01 20:37:58 --> URI Class Initialized
+INFO - 2018-01-01 20:37:58 --> Router Class Initialized
+INFO - 2018-01-01 20:37:58 --> Output Class Initialized
+INFO - 2018-01-01 20:37:58 --> Security Class Initialized
+DEBUG - 2018-01-01 20:37:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-01 20:37:58 --> Input Class Initialized
+INFO - 2018-01-01 20:37:58 --> Language Class Initialized
+INFO - 2018-01-01 20:37:58 --> Loader Class Initialized
+INFO - 2018-01-01 20:37:58 --> Helper loaded: url_helper
+INFO - 2018-01-01 20:37:58 --> Controller Class Initialized
+INFO - 2018-01-01 20:37:58 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\synapse.php
+INFO - 2018-01-01 20:37:58 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_head_dev.php
+INFO - 2018-01-01 20:37:58 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento.php
+INFO - 2018-01-01 20:37:58 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_scripts_dev.php
+INFO - 2018-01-01 20:37:58 --> Final output sent to browser
+DEBUG - 2018-01-01 20:37:58 --> Total execution time: 0.0559
+INFO - 2018-01-01 20:37:59 --> Config Class Initialized
+INFO - 2018-01-01 20:37:59 --> Hooks Class Initialized
+DEBUG - 2018-01-01 20:37:59 --> UTF-8 Support Enabled
+INFO - 2018-01-01 20:37:59 --> Utf8 Class Initialized
+INFO - 2018-01-01 20:37:59 --> URI Class Initialized
+INFO - 2018-01-01 20:37:59 --> Router Class Initialized
+INFO - 2018-01-01 20:37:59 --> Output Class Initialized
+INFO - 2018-01-01 20:37:59 --> Security Class Initialized
+DEBUG - 2018-01-01 20:37:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-01 20:37:59 --> Input Class Initialized
+INFO - 2018-01-01 20:37:59 --> Language Class Initialized
+INFO - 2018-01-01 20:37:59 --> Loader Class Initialized
+INFO - 2018-01-01 20:37:59 --> Helper loaded: url_helper
+INFO - 2018-01-01 20:37:59 --> Controller Class Initialized
+INFO - 2018-01-01 20:37:59 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\synapse.php
+INFO - 2018-01-01 20:37:59 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_head_dev.php
+INFO - 2018-01-01 20:37:59 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento.php
+INFO - 2018-01-01 20:37:59 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_scripts_dev.php
+INFO - 2018-01-01 20:37:59 --> Final output sent to browser
+DEBUG - 2018-01-01 20:37:59 --> Total execution time: 0.0565
+INFO - 2018-01-01 20:38:12 --> Config Class Initialized
+INFO - 2018-01-01 20:38:12 --> Hooks Class Initialized
+DEBUG - 2018-01-01 20:38:12 --> UTF-8 Support Enabled
+INFO - 2018-01-01 20:38:12 --> Utf8 Class Initialized
+INFO - 2018-01-01 20:38:12 --> URI Class Initialized
+INFO - 2018-01-01 20:38:12 --> Router Class Initialized
+INFO - 2018-01-01 20:38:12 --> Output Class Initialized
+INFO - 2018-01-01 20:38:12 --> Security Class Initialized
+DEBUG - 2018-01-01 20:38:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-01 20:38:12 --> Input Class Initialized
+INFO - 2018-01-01 20:38:12 --> Language Class Initialized
+INFO - 2018-01-01 20:38:12 --> Loader Class Initialized
+INFO - 2018-01-01 20:38:12 --> Helper loaded: url_helper
+INFO - 2018-01-01 20:38:12 --> Controller Class Initialized
+INFO - 2018-01-01 20:38:12 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\synapse.php
+INFO - 2018-01-01 20:38:12 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_head_dev.php
+INFO - 2018-01-01 20:38:12 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento.php
+INFO - 2018-01-01 20:38:12 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_scripts_dev.php
+INFO - 2018-01-01 20:38:12 --> Final output sent to browser
+DEBUG - 2018-01-01 20:38:12 --> Total execution time: 0.0478
+INFO - 2018-01-01 20:38:30 --> Config Class Initialized
+INFO - 2018-01-01 20:38:30 --> Hooks Class Initialized
+DEBUG - 2018-01-01 20:38:30 --> UTF-8 Support Enabled
+INFO - 2018-01-01 20:38:30 --> Utf8 Class Initialized
+INFO - 2018-01-01 20:38:30 --> URI Class Initialized
+INFO - 2018-01-01 20:38:30 --> Router Class Initialized
+INFO - 2018-01-01 20:38:30 --> Output Class Initialized
+INFO - 2018-01-01 20:38:30 --> Security Class Initialized
+DEBUG - 2018-01-01 20:38:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-01 20:38:30 --> Input Class Initialized
+INFO - 2018-01-01 20:38:30 --> Language Class Initialized
+INFO - 2018-01-01 20:38:30 --> Loader Class Initialized
+INFO - 2018-01-01 20:38:30 --> Helper loaded: url_helper
+INFO - 2018-01-01 20:38:30 --> Controller Class Initialized
+INFO - 2018-01-01 20:38:30 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\synapse.php
+INFO - 2018-01-01 20:38:30 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_head_dev.php
+INFO - 2018-01-01 20:38:30 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento.php
+INFO - 2018-01-01 20:38:30 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_scripts_dev.php
+INFO - 2018-01-01 20:38:30 --> Final output sent to browser
+DEBUG - 2018-01-01 20:38:30 --> Total execution time: 0.0469
+INFO - 2018-01-01 21:16:51 --> Config Class Initialized
+INFO - 2018-01-01 21:16:51 --> Hooks Class Initialized
+DEBUG - 2018-01-01 21:16:51 --> UTF-8 Support Enabled
+INFO - 2018-01-01 21:16:51 --> Utf8 Class Initialized
+INFO - 2018-01-01 21:16:51 --> URI Class Initialized
+INFO - 2018-01-01 21:16:51 --> Router Class Initialized
+INFO - 2018-01-01 21:16:51 --> Output Class Initialized
+INFO - 2018-01-01 21:16:51 --> Security Class Initialized
+DEBUG - 2018-01-01 21:16:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-01 21:16:51 --> Input Class Initialized
+INFO - 2018-01-01 21:16:51 --> Language Class Initialized
+INFO - 2018-01-01 21:16:51 --> Loader Class Initialized
+INFO - 2018-01-01 21:16:51 --> Helper loaded: url_helper
+INFO - 2018-01-01 21:16:51 --> Controller Class Initialized
+INFO - 2018-01-01 21:16:51 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\synapse.php
+INFO - 2018-01-01 21:16:51 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_head_dev.php
+INFO - 2018-01-01 21:16:51 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento.php
+INFO - 2018-01-01 21:16:51 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_scripts_dev.php
+INFO - 2018-01-01 21:16:51 --> Final output sent to browser
+DEBUG - 2018-01-01 21:16:51 --> Total execution time: 0.0511
+INFO - 2018-01-01 21:18:10 --> Config Class Initialized
+INFO - 2018-01-01 21:18:10 --> Hooks Class Initialized
+DEBUG - 2018-01-01 21:18:10 --> UTF-8 Support Enabled
+INFO - 2018-01-01 21:18:10 --> Utf8 Class Initialized
+INFO - 2018-01-01 21:18:10 --> URI Class Initialized
+INFO - 2018-01-01 21:18:10 --> Router Class Initialized
+INFO - 2018-01-01 21:18:10 --> Output Class Initialized
+INFO - 2018-01-01 21:18:10 --> Security Class Initialized
+DEBUG - 2018-01-01 21:18:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-01 21:18:10 --> Input Class Initialized
+INFO - 2018-01-01 21:18:10 --> Language Class Initialized
+INFO - 2018-01-01 21:18:10 --> Loader Class Initialized
+INFO - 2018-01-01 21:18:10 --> Helper loaded: url_helper
+INFO - 2018-01-01 21:18:10 --> Controller Class Initialized
+INFO - 2018-01-01 21:18:10 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\synapse.php
+INFO - 2018-01-01 21:18:10 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_head_dev.php
+INFO - 2018-01-01 21:18:10 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento.php
+INFO - 2018-01-01 21:18:10 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_scripts_dev.php
+INFO - 2018-01-01 21:18:10 --> Final output sent to browser
+DEBUG - 2018-01-01 21:18:10 --> Total execution time: 0.0486
+INFO - 2018-01-01 21:19:39 --> Config Class Initialized
+INFO - 2018-01-01 21:19:39 --> Hooks Class Initialized
+DEBUG - 2018-01-01 21:19:39 --> UTF-8 Support Enabled
+INFO - 2018-01-01 21:19:39 --> Utf8 Class Initialized
+INFO - 2018-01-01 21:19:39 --> URI Class Initialized
+INFO - 2018-01-01 21:19:39 --> Router Class Initialized
+INFO - 2018-01-01 21:19:39 --> Output Class Initialized
+INFO - 2018-01-01 21:19:39 --> Security Class Initialized
+DEBUG - 2018-01-01 21:19:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-01 21:19:39 --> Input Class Initialized
+INFO - 2018-01-01 21:19:39 --> Language Class Initialized
+INFO - 2018-01-01 21:19:39 --> Loader Class Initialized
+INFO - 2018-01-01 21:19:39 --> Helper loaded: url_helper
+INFO - 2018-01-01 21:19:39 --> Controller Class Initialized
+INFO - 2018-01-01 21:19:39 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\synapse.php
+INFO - 2018-01-01 21:19:39 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_head_dev.php
+INFO - 2018-01-01 21:19:39 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento.php
+INFO - 2018-01-01 21:19:39 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_scripts_dev.php
+INFO - 2018-01-01 21:19:39 --> Final output sent to browser
+DEBUG - 2018-01-01 21:19:39 --> Total execution time: 0.0481
+INFO - 2018-01-01 21:20:35 --> Config Class Initialized
+INFO - 2018-01-01 21:20:35 --> Hooks Class Initialized
+DEBUG - 2018-01-01 21:20:35 --> UTF-8 Support Enabled
+INFO - 2018-01-01 21:20:35 --> Utf8 Class Initialized
+INFO - 2018-01-01 21:20:35 --> URI Class Initialized
+INFO - 2018-01-01 21:20:35 --> Router Class Initialized
+INFO - 2018-01-01 21:20:35 --> Output Class Initialized
+INFO - 2018-01-01 21:20:35 --> Security Class Initialized
+DEBUG - 2018-01-01 21:20:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-01 21:20:35 --> Input Class Initialized
+INFO - 2018-01-01 21:20:35 --> Language Class Initialized
+INFO - 2018-01-01 21:20:35 --> Loader Class Initialized
+INFO - 2018-01-01 21:20:35 --> Helper loaded: url_helper
+INFO - 2018-01-01 21:20:35 --> Controller Class Initialized
+INFO - 2018-01-01 21:20:35 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\synapse.php
+INFO - 2018-01-01 21:20:35 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_head_dev.php
+INFO - 2018-01-01 21:20:35 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento.php
+INFO - 2018-01-01 21:20:35 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_scripts_dev.php
+INFO - 2018-01-01 21:20:35 --> Final output sent to browser
+DEBUG - 2018-01-01 21:20:35 --> Total execution time: 0.0579
+INFO - 2018-01-01 21:23:22 --> Config Class Initialized
+INFO - 2018-01-01 21:23:22 --> Hooks Class Initialized
+DEBUG - 2018-01-01 21:23:22 --> UTF-8 Support Enabled
+INFO - 2018-01-01 21:23:22 --> Utf8 Class Initialized
+INFO - 2018-01-01 21:23:22 --> URI Class Initialized
+INFO - 2018-01-01 21:23:22 --> Router Class Initialized
+INFO - 2018-01-01 21:23:22 --> Output Class Initialized
+INFO - 2018-01-01 21:23:22 --> Security Class Initialized
+DEBUG - 2018-01-01 21:23:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-01 21:23:22 --> Input Class Initialized
+INFO - 2018-01-01 21:23:22 --> Language Class Initialized
+INFO - 2018-01-01 21:23:22 --> Loader Class Initialized
+INFO - 2018-01-01 21:23:22 --> Helper loaded: url_helper
+INFO - 2018-01-01 21:23:22 --> Controller Class Initialized
+INFO - 2018-01-01 21:23:22 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\synapse.php
+INFO - 2018-01-01 21:23:22 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_head_dev.php
+INFO - 2018-01-01 21:23:22 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento.php
+INFO - 2018-01-01 21:23:22 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_scripts_dev.php
+INFO - 2018-01-01 21:23:22 --> Final output sent to browser
+DEBUG - 2018-01-01 21:23:22 --> Total execution time: 0.0465
+INFO - 2018-01-01 21:30:54 --> Config Class Initialized
+INFO - 2018-01-01 21:30:54 --> Hooks Class Initialized
+DEBUG - 2018-01-01 21:30:54 --> UTF-8 Support Enabled
+INFO - 2018-01-01 21:30:54 --> Utf8 Class Initialized
+INFO - 2018-01-01 21:30:54 --> URI Class Initialized
+INFO - 2018-01-01 21:30:54 --> Router Class Initialized
+INFO - 2018-01-01 21:30:54 --> Output Class Initialized
+INFO - 2018-01-01 21:30:54 --> Security Class Initialized
+DEBUG - 2018-01-01 21:30:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-01 21:30:55 --> Input Class Initialized
+INFO - 2018-01-01 21:30:55 --> Language Class Initialized
+INFO - 2018-01-01 21:30:55 --> Loader Class Initialized
+INFO - 2018-01-01 21:30:55 --> Helper loaded: url_helper
+INFO - 2018-01-01 21:30:55 --> Controller Class Initialized
+INFO - 2018-01-01 21:30:55 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\synapse.php
+INFO - 2018-01-01 21:30:55 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_head_dev.php
+INFO - 2018-01-01 21:30:55 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento.php
+INFO - 2018-01-01 21:30:55 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_scripts_dev.php
+INFO - 2018-01-01 21:30:55 --> Final output sent to browser
+DEBUG - 2018-01-01 21:30:55 --> Total execution time: 0.0493
+INFO - 2018-01-01 21:32:54 --> Config Class Initialized
+INFO - 2018-01-01 21:32:54 --> Hooks Class Initialized
+DEBUG - 2018-01-01 21:32:54 --> UTF-8 Support Enabled
+INFO - 2018-01-01 21:32:54 --> Utf8 Class Initialized
+INFO - 2018-01-01 21:32:54 --> URI Class Initialized
+INFO - 2018-01-01 21:32:54 --> Router Class Initialized
+INFO - 2018-01-01 21:32:54 --> Output Class Initialized
+INFO - 2018-01-01 21:32:54 --> Security Class Initialized
+DEBUG - 2018-01-01 21:32:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-01 21:32:54 --> Input Class Initialized
+INFO - 2018-01-01 21:32:54 --> Language Class Initialized
+INFO - 2018-01-01 21:32:54 --> Loader Class Initialized
+INFO - 2018-01-01 21:32:54 --> Helper loaded: url_helper
+INFO - 2018-01-01 21:32:54 --> Controller Class Initialized
+INFO - 2018-01-01 21:32:54 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\synapse.php
+INFO - 2018-01-01 21:32:54 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_head_dev.php
+INFO - 2018-01-01 21:32:54 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento.php
+INFO - 2018-01-01 21:32:54 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_scripts_dev.php
+INFO - 2018-01-01 21:32:54 --> Final output sent to browser
+DEBUG - 2018-01-01 21:32:54 --> Total execution time: 0.0652
+INFO - 2018-01-01 21:33:37 --> Config Class Initialized
+INFO - 2018-01-01 21:33:37 --> Hooks Class Initialized
+DEBUG - 2018-01-01 21:33:37 --> UTF-8 Support Enabled
+INFO - 2018-01-01 21:33:37 --> Utf8 Class Initialized
+INFO - 2018-01-01 21:33:37 --> URI Class Initialized
+INFO - 2018-01-01 21:33:37 --> Router Class Initialized
+INFO - 2018-01-01 21:33:37 --> Output Class Initialized
+INFO - 2018-01-01 21:33:37 --> Security Class Initialized
+DEBUG - 2018-01-01 21:33:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-01 21:33:37 --> Input Class Initialized
+INFO - 2018-01-01 21:33:37 --> Language Class Initialized
+INFO - 2018-01-01 21:33:37 --> Loader Class Initialized
+INFO - 2018-01-01 21:33:37 --> Helper loaded: url_helper
+INFO - 2018-01-01 21:33:37 --> Controller Class Initialized
+INFO - 2018-01-01 21:33:37 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\synapse.php
+INFO - 2018-01-01 21:33:37 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_head_dev.php
+INFO - 2018-01-01 21:33:37 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento.php
+INFO - 2018-01-01 21:33:37 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_scripts_dev.php
+INFO - 2018-01-01 21:33:37 --> Final output sent to browser
+DEBUG - 2018-01-01 21:33:37 --> Total execution time: 0.0584
+INFO - 2018-01-01 21:34:20 --> Config Class Initialized
+INFO - 2018-01-01 21:34:20 --> Hooks Class Initialized
+DEBUG - 2018-01-01 21:34:20 --> UTF-8 Support Enabled
+INFO - 2018-01-01 21:34:20 --> Utf8 Class Initialized
+INFO - 2018-01-01 21:34:20 --> URI Class Initialized
+INFO - 2018-01-01 21:34:20 --> Router Class Initialized
+INFO - 2018-01-01 21:34:20 --> Output Class Initialized
+INFO - 2018-01-01 21:34:20 --> Security Class Initialized
+DEBUG - 2018-01-01 21:34:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-01 21:34:20 --> Input Class Initialized
+INFO - 2018-01-01 21:34:20 --> Language Class Initialized
+INFO - 2018-01-01 21:34:20 --> Loader Class Initialized
+INFO - 2018-01-01 21:34:20 --> Helper loaded: url_helper
+INFO - 2018-01-01 21:34:20 --> Controller Class Initialized
+INFO - 2018-01-01 21:34:20 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\synapse.php
+INFO - 2018-01-01 21:34:20 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_head_dev.php
+INFO - 2018-01-01 21:34:20 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento.php
+INFO - 2018-01-01 21:34:20 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_scripts_dev.php
+INFO - 2018-01-01 21:34:20 --> Final output sent to browser
+DEBUG - 2018-01-01 21:34:20 --> Total execution time: 0.0492
+INFO - 2018-01-01 21:35:52 --> Config Class Initialized
+INFO - 2018-01-01 21:35:52 --> Hooks Class Initialized
+DEBUG - 2018-01-01 21:35:52 --> UTF-8 Support Enabled
+INFO - 2018-01-01 21:35:52 --> Utf8 Class Initialized
+INFO - 2018-01-01 21:35:52 --> URI Class Initialized
+INFO - 2018-01-01 21:35:52 --> Router Class Initialized
+INFO - 2018-01-01 21:35:52 --> Output Class Initialized
+INFO - 2018-01-01 21:35:52 --> Security Class Initialized
+DEBUG - 2018-01-01 21:35:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-01 21:35:52 --> Input Class Initialized
+INFO - 2018-01-01 21:35:52 --> Language Class Initialized
+INFO - 2018-01-01 21:35:52 --> Loader Class Initialized
+INFO - 2018-01-01 21:35:52 --> Helper loaded: url_helper
+INFO - 2018-01-01 21:35:52 --> Controller Class Initialized
+INFO - 2018-01-01 21:35:52 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\synapse.php
+INFO - 2018-01-01 21:35:52 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_head_dev.php
+INFO - 2018-01-01 21:35:52 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento.php
+INFO - 2018-01-01 21:35:52 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_scripts_dev.php
+INFO - 2018-01-01 21:35:52 --> Final output sent to browser
+DEBUG - 2018-01-01 21:35:52 --> Total execution time: 0.0458
+INFO - 2018-01-01 21:42:43 --> Config Class Initialized
+INFO - 2018-01-01 21:42:43 --> Hooks Class Initialized
+DEBUG - 2018-01-01 21:42:43 --> UTF-8 Support Enabled
+INFO - 2018-01-01 21:42:43 --> Utf8 Class Initialized
+INFO - 2018-01-01 21:42:43 --> URI Class Initialized
+INFO - 2018-01-01 21:42:43 --> Router Class Initialized
+INFO - 2018-01-01 21:42:43 --> Output Class Initialized
+INFO - 2018-01-01 21:42:43 --> Security Class Initialized
+DEBUG - 2018-01-01 21:42:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-01 21:42:43 --> Input Class Initialized
+INFO - 2018-01-01 21:42:43 --> Language Class Initialized
+INFO - 2018-01-01 21:42:43 --> Loader Class Initialized
+INFO - 2018-01-01 21:42:43 --> Helper loaded: url_helper
+INFO - 2018-01-01 21:42:43 --> Controller Class Initialized
+INFO - 2018-01-01 21:42:43 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\synapse.php
+INFO - 2018-01-01 21:42:43 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_head_dev.php
+INFO - 2018-01-01 21:42:43 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento.php
+INFO - 2018-01-01 21:42:43 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_scripts_dev.php
+INFO - 2018-01-01 21:42:43 --> Final output sent to browser
+DEBUG - 2018-01-01 21:42:43 --> Total execution time: 0.0551
+INFO - 2018-01-01 21:43:09 --> Config Class Initialized
+INFO - 2018-01-01 21:43:09 --> Hooks Class Initialized
+DEBUG - 2018-01-01 21:43:09 --> UTF-8 Support Enabled
+INFO - 2018-01-01 21:43:09 --> Utf8 Class Initialized
+INFO - 2018-01-01 21:43:09 --> URI Class Initialized
+INFO - 2018-01-01 21:43:09 --> Router Class Initialized
+INFO - 2018-01-01 21:43:09 --> Output Class Initialized
+INFO - 2018-01-01 21:43:09 --> Security Class Initialized
+DEBUG - 2018-01-01 21:43:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-01 21:43:09 --> Input Class Initialized
+INFO - 2018-01-01 21:43:09 --> Language Class Initialized
+INFO - 2018-01-01 21:43:09 --> Loader Class Initialized
+INFO - 2018-01-01 21:43:09 --> Helper loaded: url_helper
+INFO - 2018-01-01 21:43:09 --> Controller Class Initialized
+INFO - 2018-01-01 21:43:09 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\synapse.php
+INFO - 2018-01-01 21:43:09 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_head_dev.php
+INFO - 2018-01-01 21:43:09 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento.php
+INFO - 2018-01-01 21:43:09 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_scripts_dev.php
+INFO - 2018-01-01 21:43:09 --> Final output sent to browser
+DEBUG - 2018-01-01 21:43:09 --> Total execution time: 0.0518
