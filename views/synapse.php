@@ -1,7 +1,23 @@
 
 <div class="w3-card-4 synapse" style="width: 100%">
     <header class="w3-row" style="margin-left: 16px">
-        <div class="w3-dropdown-hover w3-right synapse-related-questions">
+        <div class="w3-dropdown-hover w3-right syn-related-questions">
+            <a class="w3-button w3-white">
+                <i class="fa fa-ellipsis-v"></i>
+            </a>
+            <div class="w3-dropdown-content w3-bar-block w3-card-4" style="min-width: 20px; right:0">
+                <a href="#" class="w3-bar-item w3-button">
+                    <i class="fa fa-pencil"></i>
+                </a>
+                <a href="#" class="w3-bar-item w3-button">
+                     <i class="fa fa-trash"></i>
+                </a>
+                <a href="#" class="w3-bar-item w3-button">
+                     <i class="fa fa-cog"></i>
+                </a>
+            </div>
+        </div>
+        <div class="w3-dropdown-hover w3-right syn-actions">
             <a class="w3-button w3-white">
                 <span class="fa-stack">
                     <i class="fa fa-circle-thin fa-stack-2x"></i>
@@ -15,7 +31,6 @@
             </div>
         </div>
         <h3>What are templates?</h3>
-        <p></p>
     </header>
     <div class="w3-container w3-leftbar w3-border-grey syn-main-sentense">
             <!--<p>When to use?</p>
