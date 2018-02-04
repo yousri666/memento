@@ -13,6 +13,8 @@ class Memento extends CI_Controller {
         /* $data['head'] = $this->load->view(
           (ENVIRONMENT === 'development') ? "memento_head_dev" : "memento_head_release",null, FALSE
           ); */
+        $this->load->model('memento');
+        $this->memento->getMementoByTitle('C++ Memento');
         $data['synapse'] = $this->load->view("synapse", null, TRUE);
         $this->load->view('memento_head_dev.php');
         $this->load->view("memento", $data);

@@ -1,0 +1,14 @@
+{
+    "name": "yousri/memento",
+    "type": "project",
+    "require": {
+        "mongodb/mongodb": "^1.2"
+    },
+    "authors": [
+        {
+            "name": "yousri slama",
+            "email": "slama.yousri@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}

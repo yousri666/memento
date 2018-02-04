@@ -1,0 +1,11 @@
+{
+    "name": "yousri/memento",
+    "description": "Description of project Memento.",
+    "authors": [
+        {
+            "name": "Yousri",
+            "email": "slama.yousri@gmail.com"
+        }
+    ],
+    "require": {}
+}

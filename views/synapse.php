@@ -50,8 +50,8 @@
         <div class="w3-code" style="position:relative;min-height:50px;">
             <code  class="syn-code-ground" id="code-ground">
                 template &lt typename T &gt
-                T min(const T& a,const T& b) {
-                return (a &lt b) ? a : b;
+                    T min(const T& a,const T& b) {
+                    return (a &lt b) ? a : b;
                 }
             </code>
         </div>		

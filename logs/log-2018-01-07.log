@@ -1,0 +1,264 @@
+INFO - 2018-01-07 11:51:28 --> Config Class Initialized
+INFO - 2018-01-07 11:51:28 --> Hooks Class Initialized
+DEBUG - 2018-01-07 11:51:28 --> UTF-8 Support Enabled
+INFO - 2018-01-07 11:51:28 --> Utf8 Class Initialized
+INFO - 2018-01-07 11:51:28 --> URI Class Initialized
+INFO - 2018-01-07 11:51:28 --> Router Class Initialized
+INFO - 2018-01-07 11:51:28 --> Output Class Initialized
+INFO - 2018-01-07 11:51:28 --> Security Class Initialized
+DEBUG - 2018-01-07 11:51:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-07 11:51:28 --> Input Class Initialized
+INFO - 2018-01-07 11:51:28 --> Language Class Initialized
+INFO - 2018-01-07 11:51:28 --> Loader Class Initialized
+INFO - 2018-01-07 11:51:28 --> Helper loaded: url_helper
+INFO - 2018-01-07 11:51:47 --> Config Class Initialized
+INFO - 2018-01-07 11:51:47 --> Hooks Class Initialized
+DEBUG - 2018-01-07 11:51:47 --> UTF-8 Support Enabled
+INFO - 2018-01-07 11:51:47 --> Utf8 Class Initialized
+INFO - 2018-01-07 11:51:47 --> URI Class Initialized
+INFO - 2018-01-07 11:51:47 --> Router Class Initialized
+INFO - 2018-01-07 11:51:47 --> Output Class Initialized
+INFO - 2018-01-07 11:51:47 --> Security Class Initialized
+DEBUG - 2018-01-07 11:51:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-07 11:51:47 --> Input Class Initialized
+INFO - 2018-01-07 11:51:47 --> Language Class Initialized
+INFO - 2018-01-07 11:51:47 --> Loader Class Initialized
+INFO - 2018-01-07 11:51:47 --> Helper loaded: url_helper
+INFO - 2018-01-07 11:51:52 --> Config Class Initialized
+INFO - 2018-01-07 11:51:52 --> Hooks Class Initialized
+DEBUG - 2018-01-07 11:51:52 --> UTF-8 Support Enabled
+INFO - 2018-01-07 11:51:52 --> Utf8 Class Initialized
+INFO - 2018-01-07 11:51:52 --> URI Class Initialized
+DEBUG - 2018-01-07 11:51:52 --> No URI present. Default controller set.
+INFO - 2018-01-07 11:51:52 --> Router Class Initialized
+INFO - 2018-01-07 11:51:52 --> Output Class Initialized
+INFO - 2018-01-07 11:51:52 --> Security Class Initialized
+DEBUG - 2018-01-07 11:51:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-07 11:51:52 --> Input Class Initialized
+INFO - 2018-01-07 11:51:52 --> Language Class Initialized
+INFO - 2018-01-07 11:51:52 --> Loader Class Initialized
+INFO - 2018-01-07 11:51:52 --> Helper loaded: url_helper
+INFO - 2018-01-07 11:52:54 --> Config Class Initialized
+INFO - 2018-01-07 11:52:54 --> Hooks Class Initialized
+DEBUG - 2018-01-07 11:52:54 --> UTF-8 Support Enabled
+INFO - 2018-01-07 11:52:54 --> Utf8 Class Initialized
+INFO - 2018-01-07 11:52:54 --> URI Class Initialized
+DEBUG - 2018-01-07 11:52:54 --> No URI present. Default controller set.
+INFO - 2018-01-07 11:52:54 --> Router Class Initialized
+INFO - 2018-01-07 11:52:54 --> Output Class Initialized
+INFO - 2018-01-07 11:52:54 --> Security Class Initialized
+DEBUG - 2018-01-07 11:52:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-07 11:52:54 --> Input Class Initialized
+INFO - 2018-01-07 11:52:54 --> Language Class Initialized
+INFO - 2018-01-07 11:52:54 --> Loader Class Initialized
+INFO - 2018-01-07 11:52:54 --> Helper loaded: url_helper
+INFO - 2018-01-07 11:52:55 --> Config Class Initialized
+INFO - 2018-01-07 11:52:55 --> Hooks Class Initialized
+DEBUG - 2018-01-07 11:52:55 --> UTF-8 Support Enabled
+INFO - 2018-01-07 11:52:55 --> Utf8 Class Initialized
+INFO - 2018-01-07 11:52:55 --> URI Class Initialized
+DEBUG - 2018-01-07 11:52:55 --> No URI present. Default controller set.
+INFO - 2018-01-07 11:52:55 --> Router Class Initialized
+INFO - 2018-01-07 11:52:55 --> Output Class Initialized
+INFO - 2018-01-07 11:52:55 --> Security Class Initialized
+DEBUG - 2018-01-07 11:52:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-07 11:52:55 --> Input Class Initialized
+INFO - 2018-01-07 11:52:55 --> Language Class Initialized
+INFO - 2018-01-07 11:52:55 --> Loader Class Initialized
+INFO - 2018-01-07 11:52:55 --> Helper loaded: url_helper
+INFO - 2018-01-07 11:52:57 --> Config Class Initialized
+INFO - 2018-01-07 11:52:57 --> Hooks Class Initialized
+DEBUG - 2018-01-07 11:52:57 --> UTF-8 Support Enabled
+INFO - 2018-01-07 11:52:57 --> Utf8 Class Initialized
+INFO - 2018-01-07 11:52:57 --> URI Class Initialized
+DEBUG - 2018-01-07 11:52:57 --> No URI present. Default controller set.
+INFO - 2018-01-07 11:52:57 --> Router Class Initialized
+INFO - 2018-01-07 11:52:57 --> Output Class Initialized
+INFO - 2018-01-07 11:52:57 --> Security Class Initialized
+DEBUG - 2018-01-07 11:52:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-07 11:52:57 --> Input Class Initialized
+INFO - 2018-01-07 11:52:57 --> Language Class Initialized
+INFO - 2018-01-07 11:52:57 --> Loader Class Initialized
+INFO - 2018-01-07 11:52:57 --> Helper loaded: url_helper
+INFO - 2018-01-07 11:52:58 --> Config Class Initialized
+INFO - 2018-01-07 11:52:58 --> Hooks Class Initialized
+DEBUG - 2018-01-07 11:52:58 --> UTF-8 Support Enabled
+INFO - 2018-01-07 11:52:58 --> Utf8 Class Initialized
+INFO - 2018-01-07 11:52:58 --> URI Class Initialized
+DEBUG - 2018-01-07 11:52:58 --> No URI present. Default controller set.
+INFO - 2018-01-07 11:52:58 --> Router Class Initialized
+INFO - 2018-01-07 11:52:58 --> Output Class Initialized
+INFO - 2018-01-07 11:52:58 --> Security Class Initialized
+DEBUG - 2018-01-07 11:52:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-07 11:52:58 --> Input Class Initialized
+INFO - 2018-01-07 11:52:58 --> Language Class Initialized
+INFO - 2018-01-07 11:52:58 --> Loader Class Initialized
+INFO - 2018-01-07 11:52:58 --> Helper loaded: url_helper
+INFO - 2018-01-07 11:52:58 --> Config Class Initialized
+INFO - 2018-01-07 11:52:58 --> Hooks Class Initialized
+DEBUG - 2018-01-07 11:52:58 --> UTF-8 Support Enabled
+INFO - 2018-01-07 11:52:58 --> Utf8 Class Initialized
+INFO - 2018-01-07 11:52:58 --> URI Class Initialized
+DEBUG - 2018-01-07 11:52:58 --> No URI present. Default controller set.
+INFO - 2018-01-07 11:52:58 --> Router Class Initialized
+INFO - 2018-01-07 11:52:58 --> Output Class Initialized
+INFO - 2018-01-07 11:52:58 --> Security Class Initialized
+DEBUG - 2018-01-07 11:52:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-07 11:52:58 --> Input Class Initialized
+INFO - 2018-01-07 11:52:58 --> Language Class Initialized
+INFO - 2018-01-07 11:52:58 --> Loader Class Initialized
+INFO - 2018-01-07 11:52:58 --> Helper loaded: url_helper
+INFO - 2018-01-07 11:53:00 --> Config Class Initialized
+INFO - 2018-01-07 11:53:00 --> Hooks Class Initialized
+DEBUG - 2018-01-07 11:53:00 --> UTF-8 Support Enabled
+INFO - 2018-01-07 11:53:00 --> Utf8 Class Initialized
+INFO - 2018-01-07 11:53:00 --> URI Class Initialized
+DEBUG - 2018-01-07 11:53:00 --> No URI present. Default controller set.
+INFO - 2018-01-07 11:53:00 --> Router Class Initialized
+INFO - 2018-01-07 11:53:00 --> Output Class Initialized
+INFO - 2018-01-07 11:53:00 --> Security Class Initialized
+DEBUG - 2018-01-07 11:53:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-07 11:53:00 --> Input Class Initialized
+INFO - 2018-01-07 11:53:00 --> Language Class Initialized
+INFO - 2018-01-07 11:53:00 --> Loader Class Initialized
+INFO - 2018-01-07 11:53:00 --> Helper loaded: url_helper
+INFO - 2018-01-07 11:53:01 --> Config Class Initialized
+INFO - 2018-01-07 11:53:01 --> Hooks Class Initialized
+DEBUG - 2018-01-07 11:53:01 --> UTF-8 Support Enabled
+INFO - 2018-01-07 11:53:01 --> Utf8 Class Initialized
+INFO - 2018-01-07 11:53:01 --> URI Class Initialized
+DEBUG - 2018-01-07 11:53:01 --> No URI present. Default controller set.
+INFO - 2018-01-07 11:53:01 --> Router Class Initialized
+INFO - 2018-01-07 11:53:01 --> Output Class Initialized
+INFO - 2018-01-07 11:53:01 --> Security Class Initialized
+DEBUG - 2018-01-07 11:53:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-07 11:53:01 --> Input Class Initialized
+INFO - 2018-01-07 11:53:01 --> Language Class Initialized
+INFO - 2018-01-07 11:53:01 --> Loader Class Initialized
+INFO - 2018-01-07 11:53:01 --> Helper loaded: url_helper
+INFO - 2018-01-07 11:53:02 --> Config Class Initialized
+INFO - 2018-01-07 11:53:02 --> Hooks Class Initialized
+DEBUG - 2018-01-07 11:53:02 --> UTF-8 Support Enabled
+INFO - 2018-01-07 11:53:02 --> Utf8 Class Initialized
+INFO - 2018-01-07 11:53:02 --> URI Class Initialized
+DEBUG - 2018-01-07 11:53:02 --> No URI present. Default controller set.
+INFO - 2018-01-07 11:53:02 --> Router Class Initialized
+INFO - 2018-01-07 11:53:02 --> Output Class Initialized
+INFO - 2018-01-07 11:53:02 --> Security Class Initialized
+DEBUG - 2018-01-07 11:53:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-07 11:53:02 --> Input Class Initialized
+INFO - 2018-01-07 11:53:02 --> Language Class Initialized
+INFO - 2018-01-07 11:53:02 --> Loader Class Initialized
+INFO - 2018-01-07 11:53:02 --> Helper loaded: url_helper
+INFO - 2018-01-07 11:53:03 --> Config Class Initialized
+INFO - 2018-01-07 11:53:03 --> Hooks Class Initialized
+DEBUG - 2018-01-07 11:53:03 --> UTF-8 Support Enabled
+INFO - 2018-01-07 11:53:03 --> Utf8 Class Initialized
+INFO - 2018-01-07 11:53:03 --> URI Class Initialized
+DEBUG - 2018-01-07 11:53:03 --> No URI present. Default controller set.
+INFO - 2018-01-07 11:53:03 --> Router Class Initialized
+INFO - 2018-01-07 11:53:03 --> Output Class Initialized
+INFO - 2018-01-07 11:53:03 --> Security Class Initialized
+DEBUG - 2018-01-07 11:53:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-07 11:53:03 --> Input Class Initialized
+INFO - 2018-01-07 11:53:03 --> Language Class Initialized
+INFO - 2018-01-07 11:53:03 --> Loader Class Initialized
+INFO - 2018-01-07 11:53:03 --> Helper loaded: url_helper
+INFO - 2018-01-07 12:02:15 --> Config Class Initialized
+INFO - 2018-01-07 12:02:15 --> Hooks Class Initialized
+DEBUG - 2018-01-07 12:02:15 --> UTF-8 Support Enabled
+INFO - 2018-01-07 12:02:15 --> Utf8 Class Initialized
+INFO - 2018-01-07 12:02:15 --> URI Class Initialized
+DEBUG - 2018-01-07 12:02:15 --> No URI present. Default controller set.
+INFO - 2018-01-07 12:02:15 --> Router Class Initialized
+INFO - 2018-01-07 12:02:15 --> Output Class Initialized
+INFO - 2018-01-07 12:02:15 --> Security Class Initialized
+DEBUG - 2018-01-07 12:02:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-07 12:02:15 --> Input Class Initialized
+INFO - 2018-01-07 12:02:15 --> Language Class Initialized
+INFO - 2018-01-07 12:02:15 --> Loader Class Initialized
+INFO - 2018-01-07 12:02:15 --> Helper loaded: url_helper
+INFO - 2018-01-07 12:02:16 --> Config Class Initialized
+INFO - 2018-01-07 12:02:16 --> Hooks Class Initialized
+DEBUG - 2018-01-07 12:02:16 --> UTF-8 Support Enabled
+INFO - 2018-01-07 12:02:16 --> Utf8 Class Initialized
+INFO - 2018-01-07 12:02:16 --> URI Class Initialized
+DEBUG - 2018-01-07 12:02:16 --> No URI present. Default controller set.
+INFO - 2018-01-07 12:02:16 --> Router Class Initialized
+INFO - 2018-01-07 12:02:16 --> Output Class Initialized
+INFO - 2018-01-07 12:02:16 --> Security Class Initialized
+DEBUG - 2018-01-07 12:02:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-07 12:02:16 --> Input Class Initialized
+INFO - 2018-01-07 12:02:16 --> Language Class Initialized
+INFO - 2018-01-07 12:02:16 --> Loader Class Initialized
+INFO - 2018-01-07 12:02:16 --> Helper loaded: url_helper
+INFO - 2018-01-07 12:02:18 --> Config Class Initialized
+INFO - 2018-01-07 12:02:18 --> Hooks Class Initialized
+DEBUG - 2018-01-07 12:02:18 --> UTF-8 Support Enabled
+INFO - 2018-01-07 12:02:18 --> Utf8 Class Initialized
+INFO - 2018-01-07 12:02:18 --> URI Class Initialized
+DEBUG - 2018-01-07 12:02:18 --> No URI present. Default controller set.
+INFO - 2018-01-07 12:02:18 --> Router Class Initialized
+INFO - 2018-01-07 12:02:18 --> Output Class Initialized
+INFO - 2018-01-07 12:02:18 --> Security Class Initialized
+DEBUG - 2018-01-07 12:02:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-07 12:02:18 --> Input Class Initialized
+INFO - 2018-01-07 12:02:18 --> Language Class Initialized
+INFO - 2018-01-07 12:02:18 --> Loader Class Initialized
+INFO - 2018-01-07 12:02:18 --> Helper loaded: url_helper
+INFO - 2018-01-07 12:02:19 --> Config Class Initialized
+INFO - 2018-01-07 12:02:19 --> Hooks Class Initialized
+DEBUG - 2018-01-07 12:02:19 --> UTF-8 Support Enabled
+INFO - 2018-01-07 12:02:19 --> Utf8 Class Initialized
+INFO - 2018-01-07 12:02:19 --> URI Class Initialized
+DEBUG - 2018-01-07 12:02:19 --> No URI present. Default controller set.
+INFO - 2018-01-07 12:02:19 --> Router Class Initialized
+INFO - 2018-01-07 12:02:19 --> Output Class Initialized
+INFO - 2018-01-07 12:02:19 --> Security Class Initialized
+DEBUG - 2018-01-07 12:02:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-07 12:02:19 --> Input Class Initialized
+INFO - 2018-01-07 12:02:19 --> Language Class Initialized
+INFO - 2018-01-07 12:02:19 --> Loader Class Initialized
+INFO - 2018-01-07 12:02:19 --> Helper loaded: url_helper
+INFO - 2018-01-07 12:04:46 --> Config Class Initialized
+INFO - 2018-01-07 12:04:46 --> Hooks Class Initialized
+DEBUG - 2018-01-07 12:04:46 --> UTF-8 Support Enabled
+INFO - 2018-01-07 12:04:46 --> Utf8 Class Initialized
+INFO - 2018-01-07 12:04:46 --> URI Class Initialized
+DEBUG - 2018-01-07 12:04:46 --> No URI present. Default controller set.
+INFO - 2018-01-07 12:04:46 --> Router Class Initialized
+INFO - 2018-01-07 12:04:46 --> Output Class Initialized
+INFO - 2018-01-07 12:04:46 --> Security Class Initialized
+DEBUG - 2018-01-07 12:04:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-07 12:04:46 --> Input Class Initialized
+INFO - 2018-01-07 12:04:46 --> Language Class Initialized
+INFO - 2018-01-07 12:04:46 --> Loader Class Initialized
+INFO - 2018-01-07 12:04:46 --> Helper loaded: url_helper
+INFO - 2018-01-07 12:04:47 --> Config Class Initialized
+INFO - 2018-01-07 12:04:47 --> Hooks Class Initialized
+DEBUG - 2018-01-07 12:04:47 --> UTF-8 Support Enabled
+INFO - 2018-01-07 12:04:47 --> Utf8 Class Initialized
+INFO - 2018-01-07 12:04:47 --> URI Class Initialized
+DEBUG - 2018-01-07 12:04:47 --> No URI present. Default controller set.
+INFO - 2018-01-07 12:04:47 --> Router Class Initialized
+INFO - 2018-01-07 12:04:47 --> Output Class Initialized
+INFO - 2018-01-07 12:04:47 --> Security Class Initialized
+DEBUG - 2018-01-07 12:04:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-07 12:04:47 --> Input Class Initialized
+INFO - 2018-01-07 12:04:47 --> Language Class Initialized
+INFO - 2018-01-07 12:04:47 --> Loader Class Initialized
+INFO - 2018-01-07 12:04:47 --> Helper loaded: url_helper
+INFO - 2018-01-07 19:39:47 --> Config Class Initialized
+INFO - 2018-01-07 19:39:47 --> Hooks Class Initialized
+DEBUG - 2018-01-07 19:39:47 --> UTF-8 Support Enabled
+INFO - 2018-01-07 19:39:47 --> Utf8 Class Initialized
+INFO - 2018-01-07 19:39:47 --> URI Class Initialized
+DEBUG - 2018-01-07 19:39:47 --> No URI present. Default controller set.
+INFO - 2018-01-07 19:39:47 --> Router Class Initialized
+INFO - 2018-01-07 19:39:47 --> Output Class Initialized
+INFO - 2018-01-07 19:39:47 --> Security Class Initialized
+DEBUG - 2018-01-07 19:39:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-07 19:39:47 --> Input Class Initialized
+INFO - 2018-01-07 19:39:47 --> Language Class Initialized
+INFO - 2018-01-07 19:39:47 --> Loader Class Initialized
+INFO - 2018-01-07 19:39:47 --> Helper loaded: url_helper
