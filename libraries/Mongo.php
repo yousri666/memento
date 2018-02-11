@@ -14,7 +14,7 @@
 * Thanks to Alex Bilbie (http://alexbilbie.com) for help.
 */
 
-Class Mongo_db{
+Class Mongo{
 
 	private $CI;
 	private $config = array();
@@ -54,15 +54,30 @@ Class Mongo_db{
 	function __construct($param)
 	{
 
-		if ( !extension_loaded('mongodb'))
+		if ( ! class_exists('Mongo') && ! class_exists('MongoClient'))
 		{
 			show_error("The MongoDB PECL extension has not been installed or enabled", 500);
 		}
 		$this->CI =& get_instance();
-		$this->CI->load->config('mongo_db');
-		$this->config = $this->CI->config->item('mongo_db');
+		$this->CI->load->config('mongo');
+		$this->config = $this->CI->config->item('mongo');
 		$this->param = $param;
 		$this->connect();
+	}
+
+	/**
+	* --------------------------------------------------------------------------------
+	* Class Destructor
+	* --------------------------------------------------------------------------------
+	*
+	* Close all open connections.
+	*/
+	function __destruct()
+	{
+		if(is_object($this->connect))
+		{
+			$this->connect->close();
+		}
 	}
 
 	/**
@@ -201,11 +216,11 @@ Class Mongo_db{
 			{
 				$options = array('username'=>$this->username, 'password'=>$this->password);
 			}
-			$this->connect = new MongoDB\Client($dns, $options);
-			$this->db = $this->connect->selectDatabase($this->database);
+			$this->connect = new MongoClient($dns, $options);
+			$this->db = $this->connect->selectDB($this->database);
 			$this->db = $this->connect->{$this->database};
 		}
-		catch (MongoDB\Exception $e)
+		catch (MongoConnectionException $e)
 		{
 			if(isset($this->debug) == TRUE && $this->debug == TRUE)
 			{
@@ -225,7 +240,7 @@ Class Mongo_db{
 	*
 	* Insert a new document into the passed collection
 	*
-	* @usage : $this->mongo_db->insert('foo', $data = array());
+	* @usage : $this->mongo->insert('foo', $data = array());
 	*/
 	public function insert($collection = "", $insert = array())
 	{
@@ -271,7 +286,7 @@ Class Mongo_db{
 	*
 	* Insert a multiple document into the collection
 	*
-	* @usage : $this->mongo_db->batch_insert('foo', $data = array());
+	* @usage : $this->mongo->batch_insert('foo', $data = array());
 	* @return : bool or array : if query fail then false else array of _id successfully inserted.
 	*/
 	public function batch_insert($collection = "", $insert = array())
@@ -318,7 +333,7 @@ Class Mongo_db{
 	* Determine which fields to include OR which to exclude during the query process.
 	* If you want to only choose fields to exclude, leave $includes an empty array().
 	*
-	* @usage: $this->mongo_db->select(array('foo', 'bar'))->get('foobar');
+	* @usage: $this->mongo->select(array('foo', 'bar'))->get('foobar');
 	*/
 	public function select($includes = array(), $excludes = array())
 	{
@@ -361,7 +376,7 @@ Class Mongo_db{
 	* be an associative array with the field as the key and the value as the search
 	* criteria.
 	*
-	* @usage : $this->mongo_db->where(array('foo' => 'bar'))->get('foobar');
+	* @usage : $this->mongo->where(array('foo' => 'bar'))->get('foobar');
 	*/
 	public function where($wheres, $value = null)
 	{
@@ -386,7 +401,7 @@ Class Mongo_db{
 	*
 	* Get the documents where the value of a $field may be something else
 	*
-	* @usage : $this->mongo_db->where_or(array('foo'=>'bar', 'bar'=>'foo'))->get('foobar');
+	* @usage : $this->mongo->where_or(array('foo'=>'bar', 'bar'=>'foo'))->get('foobar');
 	*/
 	public function where_or($wheres = array())
 	{
@@ -415,7 +430,7 @@ Class Mongo_db{
 	*
 	* Get the documents where the value of a $field is in a given $in array().
 	*
-	* @usage : $this->mongo_db->where_in('foo', array('bar', 'zoo', 'blah'))->get('foobar');
+	* @usage : $this->mongo->where_in('foo', array('bar', 'zoo', 'blah'))->get('foobar');
 	*/
 	public function where_in($field = "", $in = array())
 	{
@@ -443,7 +458,7 @@ Class Mongo_db{
 	*
 	* Get the documents where the value of a $field is in all of a given $in array().
 	*
-	* @usage : $this->mongo_db->where_in_all('foo', array('bar', 'zoo', 'blah'))->get('foobar');
+	* @usage : $this->mongo->where_in_all('foo', array('bar', 'zoo', 'blah'))->get('foobar');
 	*/
 	public function where_in_all($field = "", $in = array())
 	{
@@ -471,7 +486,7 @@ Class Mongo_db{
 	*
 	* Get the documents where the value of a $field is not in a given $in array().
 	*
-	* @usage : $this->mongo_db->where_not_in('foo', array('bar', 'zoo', 'blah'))->get('foobar');
+	* @usage : $this->mongo->where_not_in('foo', array('bar', 'zoo', 'blah'))->get('foobar');
 	*/
 	public function where_not_in($field = "", $in = array())
 	{
@@ -499,7 +514,7 @@ Class Mongo_db{
 	*
 	* Get the documents where the value of a $field is greater than $x
 	*
-	* @usage : $this->mongo_db->where_gt('foo', 20);
+	* @usage : $this->mongo->where_gt('foo', 20);
 	*/
 	public function where_gt($field = "", $x)
 	{
@@ -525,7 +540,7 @@ Class Mongo_db{
 	*
 	* Get the documents where the value of a $field is greater than or equal to $x
 	*
-	* @usage : $this->mongo_db->where_gte('foo', 20);
+	* @usage : $this->mongo->where_gte('foo', 20);
 	*/
 	public function where_gte($field = "", $x)
 	{
@@ -551,7 +566,7 @@ Class Mongo_db{
 	*
 	* Get the documents where the value of a $field is less than $x
 	*
-	* @usage : $this->mongo_db->where_lt('foo', 20);
+	* @usage : $this->mongo->where_lt('foo', 20);
 	*/
 	public function where_lt($field = "", $x)
 	{
@@ -577,7 +592,7 @@ Class Mongo_db{
 	*
 	* Get the documents where the value of a $field is less than or equal to $x
 	*
-	* @usage : $this->mongo_db->where_lte('foo', 20);
+	* @usage : $this->mongo->where_lte('foo', 20);
 	*/
 	public function where_lte($field = "", $x)
 	{
@@ -603,7 +618,7 @@ Class Mongo_db{
 	*
 	* Get the documents where the value of a $field is between $x and $y
 	*
-	* @usage : $this->mongo_db->where_between('foo', 20, 30);
+	* @usage : $this->mongo->where_between('foo', 20, 30);
 	*/
 	public function where_between($field = "", $x, $y)
 	{
@@ -635,7 +650,7 @@ Class Mongo_db{
 	*
 	* Get the documents where the value of a $field is between but not equal to $x and $y
 	*
-	* @usage : $this->mongo_db->where_between_ne('foo', 20, 30);
+	* @usage : $this->mongo->where_between_ne('foo', 20, 30);
 	*/
 	public function where_between_ne($field = "", $x, $y)
 	{
@@ -667,7 +682,7 @@ Class Mongo_db{
 	*
 	* Get the documents where the value of a $field is not equal to $x
 	*
-	* @usage : $this->mongo_db->where_ne('foo', 1)->get('foobar');
+	* @usage : $this->mongo->where_ne('foo', 1)->get('foobar');
 	*/
 	public function where_ne($field = '', $x)
 	{
@@ -713,7 +728,7 @@ Class Mongo_db{
 	* to the search value, representing only searching for a value at the end of
 	* a line.
 	*
-	* @usage : $this->mongo_db->like('foo', 'bar', 'im', FALSE, TRUE);
+	* @usage : $this->mongo->like('foo', 'bar', 'im', FALSE, TRUE);
 	*/
 	public function like($field = "", $value = "", $flags = "i", $enable_start_wildcard = TRUE, $enable_end_wildcard = TRUE)
 	{
@@ -751,7 +766,7 @@ Class Mongo_db{
 	*
 	* Get the documents based upon the passed parameters
 	*
-	* @usage : $this->mongo_db->get('foo');
+	* @usage : $this->mongo->get('foo');
 	*/
 	public function get($collection = "")
 	{			
@@ -810,7 +825,7 @@ Class Mongo_db{
 	*
 	* Get the documents based upon the passed parameters
 	*
-	* @usage : $this->mongo_db->get_where('foo', array('bar' => 'something'));
+	* @usage : $this->mongo->get_where('foo', array('bar' => 'something'));
 	*/
 	public function get_where($collection = "", $where = array())
 	{
@@ -832,7 +847,7 @@ Class Mongo_db{
 	*
 	* Get the single document based upon the passed parameters
 	*
-	* @usage : $this->mongo_db->find_one('foo');
+	* @usage : $this->mongo->find_one('foo');
 	*/
 	public function find_one($collection = "")
 	{
@@ -883,7 +898,7 @@ Class Mongo_db{
 	*
 	* Count the documents based upon the passed parameters
 	*
-	* @usage : $this->mongo_db->count('foo');
+	* @usage : $this->mongo->count('foo');
 	*/
 	public function count($collection = "") 
 	{
@@ -903,8 +918,8 @@ Class Mongo_db{
 	*
 	* Sets a field to a value
 	*
-	* @usage: $this->mongo_db->where(array('blog_id'=>123))->set('posted', 1)->update('blog_posts');
-	* @usage: $this->mongo_db->where(array('blog_id'=>123))->set(array('posted' => 1, 'time' => time()))->update('blog_posts');
+	* @usage: $this->mongo->where(array('blog_id'=>123))->set('posted', 1)->update('blog_posts');
+	* @usage: $this->mongo->where(array('blog_id'=>123))->set(array('posted' => 1, 'time' => time()))->update('blog_posts');
 	*/
 	public function set($fields, $value = NULL)
 	{
@@ -930,8 +945,8 @@ Class Mongo_db{
 	*
 	* Unsets a field (or fields)
 	*
-	* @usage: $this->mongo_db->where(array('blog_id'=>123))->unset('posted')->update('blog_posts');
-	* @usage: $this->mongo_db->where(array('blog_id'=>123))->set(array('posted','time'))->update('blog_posts');
+	* @usage: $this->mongo->where(array('blog_id'=>123))->unset('posted')->update('blog_posts');
+	* @usage: $this->mongo->where(array('blog_id'=>123))->set(array('posted','time'))->update('blog_posts');
 	*/
 	public function unset_field($fields)
 	{
@@ -957,8 +972,8 @@ Class Mongo_db{
 	*
 	* Adds value to the array only if its not in the array already
 	*
-	* @usage: $this->mongo_db->where(array('blog_id'=>123))->addtoset('tags', 'php')->update('blog_posts');
-	* @usage: $this->mongo_db->where(array('blog_id'=>123))->addtoset('tags', array('php', 'codeigniter', 'mongodb'))->update('blog_posts');
+	* @usage: $this->mongo->where(array('blog_id'=>123))->addtoset('tags', 'php')->update('blog_posts');
+	* @usage: $this->mongo->where(array('blog_id'=>123))->addtoset('tags', array('php', 'codeigniter', 'mongodb'))->update('blog_posts');
 	*/
 	public function addtoset($field, $values)
 	{
@@ -981,8 +996,8 @@ Class Mongo_db{
 	*
 	* Pushes values into a field (field must be an array)
 	*
-	* @usage: $this->mongo_db->where(array('blog_id'=>123))->push('comments', array('text'=>'Hello world'))->update('blog_posts');
-	* @usage: $this->mongo_db->where(array('blog_id'=>123))->push(array('comments' => array('text'=>'Hello world')), 'viewed_by' => array('Alex')->update('blog_posts');
+	* @usage: $this->mongo->where(array('blog_id'=>123))->push('comments', array('text'=>'Hello world'))->update('blog_posts');
+	* @usage: $this->mongo->where(array('blog_id'=>123))->push(array('comments' => array('text'=>'Hello world')), 'viewed_by' => array('Alex')->update('blog_posts');
 	*/
 	public function push($fields, $value = array())
 	{
@@ -1008,8 +1023,8 @@ Class Mongo_db{
 	*
 	* Pops the last value from a field (field must be an array)
 	*
-	* @usage: $this->mongo_db->where(array('blog_id'=>123))->pop('comments')->update('blog_posts');
-	* @usage: $this->mongo_db->where(array('blog_id'=>123))->pop(array('comments', 'viewed_by'))->update('blog_posts');
+	* @usage: $this->mongo->where(array('blog_id'=>123))->pop('comments')->update('blog_posts');
+	* @usage: $this->mongo->where(array('blog_id'=>123))->pop(array('comments', 'viewed_by'))->update('blog_posts');
 	*/
 	public function pop($field)
 	{
@@ -1035,7 +1050,7 @@ Class Mongo_db{
 	*
 	* Removes by an array by the value of a field
 	*
-	* @usage: $this->mongo_db->pull('comments', array('comment_id'=>123))->update('blog_posts');
+	* @usage: $this->mongo->pull('comments', array('comment_id'=>123))->update('blog_posts');
 	*/
 	public function pull($field = "", $value = array())
 	{
@@ -1051,7 +1066,7 @@ Class Mongo_db{
 	*
 	* Renames a field
 	*
-	* @usage: $this->mongo_db->where(array('blog_id'=>123))->rename_field('posted_by', 'author')->update('blog_posts');
+	* @usage: $this->mongo->where(array('blog_id'=>123))->rename_field('posted_by', 'author')->update('blog_posts');
 	*/
 	public function rename_field($old, $new)
 	{
@@ -1067,7 +1082,7 @@ Class Mongo_db{
 	*
 	* Increments the value of a field
 	*
-	* @usage: $this->mongo_db->where(array('blog_id'=>123))->inc(array('num_comments' => 1))->update('blog_posts');
+	* @usage: $this->mongo->where(array('blog_id'=>123))->inc(array('num_comments' => 1))->update('blog_posts');
 	*/
 	public function inc($fields = array(), $value = 0)
 	{
@@ -1093,7 +1108,7 @@ Class Mongo_db{
 	*
 	* Multiple the value of a field
 	*
-	* @usage: $this->mongo_db->where(array('blog_id'=>123))->mul(array('num_comments' => 3))->update('blog_posts');
+	* @usage: $this->mongo->where(array('blog_id'=>123))->mul(array('num_comments' => 3))->update('blog_posts');
 	*/
 	public function mul($fields = array(), $value = 0)
 	{
@@ -1119,7 +1134,7 @@ Class Mongo_db{
 	*
 	* The $max operator updates the value of the field to a specified value if the specified value is greater than the current value of the field.
 	*
-	* @usage: $this->mongo_db->where(array('blog_id'=>123))->max(array('num_comments' => 3))->update('blog_posts');
+	* @usage: $this->mongo->where(array('blog_id'=>123))->max(array('num_comments' => 3))->update('blog_posts');
 	*/
 	public function max($fields = array(), $value = 0)
 	{
@@ -1145,7 +1160,7 @@ Class Mongo_db{
 	*
 	* The $min updates the value of the field to a specified value if the specified value is less than the current value of the field.
 	*
-	* @usage: $this->mongo_db->where(array('blog_id'=>123))->min(array('num_comments' => 3))->update('blog_posts');
+	* @usage: $this->mongo->where(array('blog_id'=>123))->min(array('num_comments' => 3))->update('blog_posts');
 	*/
 	public function min($fields = array(), $value = 0)
 	{
@@ -1171,7 +1186,7 @@ Class Mongo_db{
 	*
 	* Finds the distinct values for a specified field across a single collection
 	*
-	* @usage: $this->mongo_db->distinct('collection', 'field');
+	* @usage: $this->mongo->distinct('collection', 'field');
 	*/
 	public function distinct($collection = "", $field="")
 	{
@@ -1218,7 +1233,7 @@ Class Mongo_db{
 	*
 	* Updates a single document in Mongo
 	*
-	* @usage: $this->mongo_db->update('foo', $data = array());
+	* @usage: $this->mongo->update('foo', $data = array());
 	*/
 	public function update($collection = "", $options = array())
 	{
@@ -1254,7 +1269,7 @@ Class Mongo_db{
 	*
 	* Updates a collection of documents
 	*
-	* @usage: $this->mongo_db->update_all('foo', $data = array());
+	* @usage: $this->mongo->update_all('foo', $data = array());
 	*/
 	public function update_all($collection = "", $data = array(), $options = array())
 	{
@@ -1297,7 +1312,7 @@ Class Mongo_db{
 	*
 	* delete document from the passed collection based upon certain criteria
 	*
-	* @usage : $this->mongo_db->delete('foo');
+	* @usage : $this->mongo->delete('foo');
 	*/
 	public function delete($collection = "")
 	{
@@ -1332,7 +1347,7 @@ Class Mongo_db{
 	*
 	* Delete all documents from the passed collection based upon certain criteria
 	*
-	* @usage : $this->mongo_db->delete_all('foo', $data = array());
+	* @usage : $this->mongo->delete_all('foo', $data = array());
 	*/
 	public function delete_all($collection = "")
 	{
@@ -1370,7 +1385,7 @@ Class Mongo_db{
 	*
 	* Perform aggregation on mongodb collection
 	*
-	* @usage : $this->mongo_db->aggregate('foo', $ops = array());
+	* @usage : $this->mongo->aggregate('foo', $ops = array());
 	*/
 	public function aggregate($collection, $operation)
 	{
@@ -1419,7 +1434,7 @@ Class Mongo_db{
 	* you must pass values of either -1, FALSE, 'desc', or 'DESC', else they will be
 	* set to 1 (ASC).
 	*
-	* @usage : $this->mongo_db->order_by(array('foo' => 'ASC'))->get('foobar');
+	* @usage : $this->mongo->order_by(array('foo' => 'ASC'))->get('foobar');
 	*/
 	public function order_by($fields = array())
 	{
@@ -1445,7 +1460,7 @@ Class Mongo_db{
 	* Create new MongoDate object from current time or pass timestamp to create
 	* mongodate.
 	*
-	* @usage : $this->mongo_db->date($timestamp);
+	* @usage : $this->mongo->date($timestamp);
 	*/
 	public function date($stamp = FALSE)
 	{
@@ -1467,7 +1482,7 @@ Class Mongo_db{
 	*
 	* Output all benchmark data for all performed queries.
 	*
-	* @usage : $this->mongo_db->output_benchmark();
+	* @usage : $this->mongo->output_benchmark();
 	*/
 	public function output_benchmark()
 	{
@@ -1480,7 +1495,7 @@ Class Mongo_db{
 	*
 	* Limit the result set to $x number of documents
 	*
-	* @usage : $this->mongo_db->limit($x);
+	* @usage : $this->mongo->limit($x);
 	*/
 	public function limit($x = 99999)
 	{
@@ -1498,7 +1513,7 @@ Class Mongo_db{
 	*
 	* Offset the result set to skip $x number of documents
 	*
-	* @usage : $this->mongo_db->offset($x);
+	* @usage : $this->mongo->offset($x);
 	*/
 	public function offset($x = 0)
 	{
@@ -1517,7 +1532,7 @@ Class Mongo_db{
 	* Runs a MongoDB command
 	*
 	* @param  string : Collection name, array $query The command query
-	* @usage : $this->mongo_db->command($collection, array('geoNear'=>'buildings', 'near'=>array(53.228482, -0.547847), 'num' => 10, 'nearSphere'=>true));
+	* @usage : $this->mongo->command($collection, array('geoNear'=>'buildings', 'near'=>array(53.228482, -0.547847), 'num' => 10, 'nearSphere'=>true));
 	* @access public
         * @return object or array
 	*/
@@ -1571,7 +1586,7 @@ Class Mongo_db{
 	* you must pass values of either -1, FALSE, 'desc', or 'DESC', else they will be
 	* set to 1 (ASC).
 	*
-	* @usage : $this->mongo_db->add_index($collection, array('first_name' => 'ASC', 'last_name' => -1), array('unique' => TRUE));
+	* @usage : $this->mongo->add_index($collection, array('first_name' => 'ASC', 'last_name' => -1), array('unique' => TRUE));
 	*/
 	public function add_index($collection = "", $keys = array(), $options = array())
 	{
@@ -1623,7 +1638,7 @@ Class Mongo_db{
 	* you must pass values of either -1, FALSE, 'desc', or 'DESC', else they will be
 	* set to 1 (ASC).
 	*
-	* @usage : $this->mongo_db->remove_index($collection, array('first_name' => 'ASC', 'last_name' => -1));
+	* @usage : $this->mongo->remove_index($collection, array('first_name' => 'ASC', 'last_name' => -1));
 	*/
 	public function remove_index($collection = "", $keys = array())
 	{
@@ -1663,7 +1678,7 @@ Class Mongo_db{
 	*
 	* Lists all indexes in a collection.
 	*
-	* @usage : $this->mongo_db->list_indexes($collection);
+	* @usage : $this->mongo->list_indexes($collection);
 	*/
 	public function list_indexes($collection = "")
 	{
@@ -1681,7 +1696,7 @@ Class Mongo_db{
 	*
 	* Switch from default database to a different db
 	*
-	* $this->mongo_db->switch_db('foobar');
+	* $this->mongo->switch_db('foobar');
 	*/
 	public function switch_db($database = '')
 	{
@@ -1709,7 +1724,7 @@ Class Mongo_db{
 	* --------------------------------------------------------------------------------
 	*
 	* Drop a Mongo database
-	* @usage: $this->mongo_db->drop_db("foobar");
+	* @usage: $this->mongo->drop_db("foobar");
 	*/
 	public function drop_db($database = '')
 	{
@@ -1735,7 +1750,7 @@ Class Mongo_db{
 	* --------------------------------------------------------------------------------
 	*
 	* Drop a Mongo collection
-	* @usage: $this->mongo_db->drop_collection('bar');
+	* @usage: $this->mongo->drop_collection('bar');
 	*/
 	public function drop_collection($col = '')
 	{

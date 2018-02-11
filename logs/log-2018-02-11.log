@@ -1,0 +1,847 @@
+INFO - 2018-02-11 13:57:06 --> Config Class Initialized
+INFO - 2018-02-11 13:57:06 --> Hooks Class Initialized
+DEBUG - 2018-02-11 13:57:06 --> UTF-8 Support Enabled
+INFO - 2018-02-11 13:57:06 --> Utf8 Class Initialized
+INFO - 2018-02-11 13:57:06 --> URI Class Initialized
+INFO - 2018-02-11 13:57:06 --> Router Class Initialized
+INFO - 2018-02-11 13:57:06 --> Output Class Initialized
+INFO - 2018-02-11 13:57:06 --> Security Class Initialized
+DEBUG - 2018-02-11 13:57:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-02-11 13:57:06 --> Input Class Initialized
+INFO - 2018-02-11 13:57:06 --> Language Class Initialized
+INFO - 2018-02-11 13:57:06 --> Loader Class Initialized
+INFO - 2018-02-11 13:57:06 --> Helper loaded: url_helper
+DEBUG - 2018-02-11 13:57:06 --> Config file loaded: C:\Users\Yousri\php\workspace\Memento\config/mongo_db.php
+INFO - 2018-02-11 13:57:06 --> Controller Class Initialized
+ERROR - 2018-02-11 13:57:06 --> Severity: error --> Exception: Unable to locate the model you have specified: Memento_model C:\Users\Yousri\php\workspace\MementoCISys\core\Loader.php 344
+INFO - 2018-02-11 13:57:43 --> Config Class Initialized
+INFO - 2018-02-11 13:57:43 --> Hooks Class Initialized
+DEBUG - 2018-02-11 13:57:43 --> UTF-8 Support Enabled
+INFO - 2018-02-11 13:57:43 --> Utf8 Class Initialized
+INFO - 2018-02-11 13:57:43 --> URI Class Initialized
+INFO - 2018-02-11 13:57:43 --> Router Class Initialized
+INFO - 2018-02-11 13:57:43 --> Output Class Initialized
+INFO - 2018-02-11 13:57:43 --> Security Class Initialized
+DEBUG - 2018-02-11 13:57:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-02-11 13:57:43 --> Input Class Initialized
+INFO - 2018-02-11 13:57:43 --> Language Class Initialized
+INFO - 2018-02-11 13:57:43 --> Loader Class Initialized
+INFO - 2018-02-11 13:57:43 --> Helper loaded: url_helper
+DEBUG - 2018-02-11 13:57:43 --> Config file loaded: C:\Users\Yousri\php\workspace\Memento\config/mongo_db.php
+INFO - 2018-02-11 13:57:43 --> Controller Class Initialized
+INFO - 2018-02-11 13:57:43 --> Model Class Initialized
+ERROR - 2018-02-11 13:57:43 --> Severity: Notice --> Undefined property: Memento::$memento_m C:\Users\Yousri\php\workspace\Memento\controllers\memento.php 17
+ERROR - 2018-02-11 13:57:43 --> Severity: error --> Exception: Call to a member function getMementoByTitle() on null C:\Users\Yousri\php\workspace\Memento\controllers\memento.php 17
+INFO - 2018-02-11 13:58:04 --> Config Class Initialized
+INFO - 2018-02-11 13:58:04 --> Hooks Class Initialized
+DEBUG - 2018-02-11 13:58:04 --> UTF-8 Support Enabled
+INFO - 2018-02-11 13:58:04 --> Utf8 Class Initialized
+INFO - 2018-02-11 13:58:04 --> URI Class Initialized
+INFO - 2018-02-11 13:58:04 --> Router Class Initialized
+INFO - 2018-02-11 13:58:04 --> Output Class Initialized
+INFO - 2018-02-11 13:58:04 --> Security Class Initialized
+DEBUG - 2018-02-11 13:58:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-02-11 13:58:04 --> Input Class Initialized
+INFO - 2018-02-11 13:58:04 --> Language Class Initialized
+INFO - 2018-02-11 13:58:04 --> Loader Class Initialized
+INFO - 2018-02-11 13:58:04 --> Helper loaded: url_helper
+DEBUG - 2018-02-11 13:58:04 --> Config file loaded: C:\Users\Yousri\php\workspace\Memento\config/mongo_db.php
+INFO - 2018-02-11 13:58:04 --> Controller Class Initialized
+INFO - 2018-02-11 13:58:04 --> Model Class Initialized
+INFO - 2018-02-11 13:58:04 --> Helper loaded: debug_helper
+ERROR - 2018-02-11 13:58:04 --> Severity: error --> Exception: Cannot use object of type stdClass as array C:\Users\Yousri\php\workspace\Memento\models\memento_model.php 32
+INFO - 2018-02-11 13:58:24 --> Config Class Initialized
+INFO - 2018-02-11 13:58:24 --> Hooks Class Initialized
+DEBUG - 2018-02-11 13:58:24 --> UTF-8 Support Enabled
+INFO - 2018-02-11 13:58:24 --> Utf8 Class Initialized
+INFO - 2018-02-11 13:58:24 --> URI Class Initialized
+INFO - 2018-02-11 13:58:24 --> Router Class Initialized
+INFO - 2018-02-11 13:58:24 --> Output Class Initialized
+INFO - 2018-02-11 13:58:24 --> Security Class Initialized
+DEBUG - 2018-02-11 13:58:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-02-11 13:58:24 --> Input Class Initialized
+INFO - 2018-02-11 13:58:24 --> Language Class Initialized
+INFO - 2018-02-11 13:58:24 --> Loader Class Initialized
+INFO - 2018-02-11 13:58:24 --> Helper loaded: url_helper
+DEBUG - 2018-02-11 13:58:24 --> Config file loaded: C:\Users\Yousri\php\workspace\Memento\config/mongo_db.php
+INFO - 2018-02-11 13:58:24 --> Controller Class Initialized
+INFO - 2018-02-11 13:58:24 --> Model Class Initialized
+INFO - 2018-02-11 13:58:24 --> Helper loaded: debug_helper
+ERROR - 2018-02-11 13:58:24 --> Severity: error --> Exception: Cannot use object of type stdClass as array C:\Users\Yousri\php\workspace\Memento\models\memento_model.php 32
+INFO - 2018-02-11 13:58:26 --> Config Class Initialized
+INFO - 2018-02-11 13:58:26 --> Hooks Class Initialized
+DEBUG - 2018-02-11 13:58:26 --> UTF-8 Support Enabled
+INFO - 2018-02-11 13:58:26 --> Utf8 Class Initialized
+INFO - 2018-02-11 13:58:26 --> URI Class Initialized
+INFO - 2018-02-11 13:58:26 --> Router Class Initialized
+INFO - 2018-02-11 13:58:26 --> Output Class Initialized
+INFO - 2018-02-11 13:58:26 --> Security Class Initialized
+DEBUG - 2018-02-11 13:58:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-02-11 13:58:26 --> Input Class Initialized
+INFO - 2018-02-11 13:58:26 --> Language Class Initialized
+INFO - 2018-02-11 13:58:26 --> Loader Class Initialized
+INFO - 2018-02-11 13:58:26 --> Helper loaded: url_helper
+DEBUG - 2018-02-11 13:58:26 --> Config file loaded: C:\Users\Yousri\php\workspace\Memento\config/mongo_db.php
+INFO - 2018-02-11 13:58:26 --> Controller Class Initialized
+INFO - 2018-02-11 13:58:26 --> Model Class Initialized
+INFO - 2018-02-11 13:58:26 --> Helper loaded: debug_helper
+ERROR - 2018-02-11 13:58:26 --> Severity: error --> Exception: Cannot use object of type stdClass as array C:\Users\Yousri\php\workspace\Memento\models\memento_model.php 32
+INFO - 2018-02-11 13:58:41 --> Config Class Initialized
+INFO - 2018-02-11 13:58:41 --> Hooks Class Initialized
+DEBUG - 2018-02-11 13:58:41 --> UTF-8 Support Enabled
+INFO - 2018-02-11 13:58:41 --> Utf8 Class Initialized
+INFO - 2018-02-11 13:58:41 --> URI Class Initialized
+INFO - 2018-02-11 13:58:41 --> Router Class Initialized
+INFO - 2018-02-11 13:58:41 --> Output Class Initialized
+INFO - 2018-02-11 13:58:41 --> Security Class Initialized
+DEBUG - 2018-02-11 13:58:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-02-11 13:58:41 --> Input Class Initialized
+INFO - 2018-02-11 13:58:41 --> Language Class Initialized
+INFO - 2018-02-11 13:58:41 --> Loader Class Initialized
+INFO - 2018-02-11 13:58:41 --> Helper loaded: url_helper
+DEBUG - 2018-02-11 13:58:41 --> Config file loaded: C:\Users\Yousri\php\workspace\Memento\config/mongo_db.php
+INFO - 2018-02-11 13:58:41 --> Controller Class Initialized
+INFO - 2018-02-11 13:58:41 --> Model Class Initialized
+INFO - 2018-02-11 13:58:41 --> Helper loaded: debug_helper
+ERROR - 2018-02-11 13:58:41 --> Severity: error --> Exception: Cannot use object of type stdClass as array C:\Users\Yousri\php\workspace\Memento\models\memento_model.php 32
+INFO - 2018-02-11 13:59:01 --> Config Class Initialized
+INFO - 2018-02-11 13:59:01 --> Hooks Class Initialized
+DEBUG - 2018-02-11 13:59:01 --> UTF-8 Support Enabled
+INFO - 2018-02-11 13:59:01 --> Utf8 Class Initialized
+INFO - 2018-02-11 13:59:01 --> URI Class Initialized
+INFO - 2018-02-11 13:59:01 --> Router Class Initialized
+INFO - 2018-02-11 13:59:01 --> Output Class Initialized
+INFO - 2018-02-11 13:59:01 --> Security Class Initialized
+DEBUG - 2018-02-11 13:59:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-02-11 13:59:01 --> Input Class Initialized
+INFO - 2018-02-11 13:59:01 --> Language Class Initialized
+INFO - 2018-02-11 13:59:01 --> Loader Class Initialized
+INFO - 2018-02-11 13:59:01 --> Helper loaded: url_helper
+DEBUG - 2018-02-11 13:59:01 --> Config file loaded: C:\Users\Yousri\php\workspace\Memento\config/mongo_db.php
+INFO - 2018-02-11 13:59:01 --> Controller Class Initialized
+INFO - 2018-02-11 13:59:01 --> Model Class Initialized
+INFO - 2018-02-11 13:59:01 --> Helper loaded: debug_helper
+INFO - 2018-02-11 13:59:01 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\synapse.php
+INFO - 2018-02-11 13:59:01 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\synapse.php
+INFO - 2018-02-11 13:59:01 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_head_dev.php
+INFO - 2018-02-11 13:59:01 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento.php
+INFO - 2018-02-11 13:59:01 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_scripts_dev.php
+INFO - 2018-02-11 13:59:01 --> Final output sent to browser
+DEBUG - 2018-02-11 13:59:01 --> Total execution time: 0.0688
+INFO - 2018-02-11 14:01:29 --> Config Class Initialized
+INFO - 2018-02-11 14:01:29 --> Hooks Class Initialized
+DEBUG - 2018-02-11 14:01:29 --> UTF-8 Support Enabled
+INFO - 2018-02-11 14:01:29 --> Utf8 Class Initialized
+INFO - 2018-02-11 14:01:29 --> URI Class Initialized
+INFO - 2018-02-11 14:01:29 --> Router Class Initialized
+INFO - 2018-02-11 14:01:29 --> Output Class Initialized
+INFO - 2018-02-11 14:01:29 --> Security Class Initialized
+DEBUG - 2018-02-11 14:01:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-02-11 14:01:29 --> Input Class Initialized
+INFO - 2018-02-11 14:01:29 --> Language Class Initialized
+INFO - 2018-02-11 14:01:29 --> Loader Class Initialized
+INFO - 2018-02-11 14:01:29 --> Helper loaded: url_helper
+DEBUG - 2018-02-11 14:01:29 --> Config file loaded: C:\Users\Yousri\php\workspace\Memento\config/mongo_db.php
+INFO - 2018-02-11 14:01:29 --> Controller Class Initialized
+INFO - 2018-02-11 14:01:29 --> Model Class Initialized
+INFO - 2018-02-11 14:01:29 --> Helper loaded: debug_helper
+INFO - 2018-02-11 14:01:29 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\templates/synapse.php
+INFO - 2018-02-11 14:01:29 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_head_dev.php
+ERROR - 2018-02-11 14:01:29 --> Severity: Notice --> Undefined offset: 1 C:\Users\Yousri\php\workspace\Memento\views\memento.php 29
+INFO - 2018-02-11 14:01:29 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento.php
+INFO - 2018-02-11 14:01:29 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_scripts_dev.php
+INFO - 2018-02-11 14:01:29 --> Final output sent to browser
+DEBUG - 2018-02-11 14:01:29 --> Total execution time: 0.0833
+INFO - 2018-02-11 14:02:00 --> Config Class Initialized
+INFO - 2018-02-11 14:02:00 --> Hooks Class Initialized
+DEBUG - 2018-02-11 14:02:00 --> UTF-8 Support Enabled
+INFO - 2018-02-11 14:02:00 --> Utf8 Class Initialized
+INFO - 2018-02-11 14:02:00 --> URI Class Initialized
+INFO - 2018-02-11 14:02:00 --> Router Class Initialized
+INFO - 2018-02-11 14:02:00 --> Output Class Initialized
+INFO - 2018-02-11 14:02:00 --> Security Class Initialized
+DEBUG - 2018-02-11 14:02:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-02-11 14:02:00 --> Input Class Initialized
+INFO - 2018-02-11 14:02:00 --> Language Class Initialized
+INFO - 2018-02-11 14:02:00 --> Loader Class Initialized
+INFO - 2018-02-11 14:02:00 --> Helper loaded: url_helper
+DEBUG - 2018-02-11 14:02:00 --> Config file loaded: C:\Users\Yousri\php\workspace\Memento\config/mongo_db.php
+INFO - 2018-02-11 14:02:00 --> Controller Class Initialized
+INFO - 2018-02-11 14:02:00 --> Model Class Initialized
+INFO - 2018-02-11 14:02:00 --> Helper loaded: debug_helper
+INFO - 2018-02-11 14:02:00 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\templates/synapse.php
+INFO - 2018-02-11 14:02:00 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_head_dev.php
+INFO - 2018-02-11 14:02:00 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento.php
+INFO - 2018-02-11 14:02:00 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_scripts_dev.php
+INFO - 2018-02-11 14:02:00 --> Final output sent to browser
+DEBUG - 2018-02-11 14:02:00 --> Total execution time: 0.0636
+INFO - 2018-02-11 14:20:37 --> Config Class Initialized
+INFO - 2018-02-11 14:20:37 --> Hooks Class Initialized
+DEBUG - 2018-02-11 14:20:37 --> UTF-8 Support Enabled
+INFO - 2018-02-11 14:20:37 --> Utf8 Class Initialized
+INFO - 2018-02-11 14:20:37 --> URI Class Initialized
+INFO - 2018-02-11 14:20:37 --> Router Class Initialized
+INFO - 2018-02-11 14:20:37 --> Output Class Initialized
+INFO - 2018-02-11 14:20:37 --> Security Class Initialized
+DEBUG - 2018-02-11 14:20:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-02-11 14:20:37 --> Input Class Initialized
+INFO - 2018-02-11 14:20:37 --> Language Class Initialized
+INFO - 2018-02-11 14:20:37 --> Loader Class Initialized
+INFO - 2018-02-11 14:20:37 --> Helper loaded: url_helper
+DEBUG - 2018-02-11 14:20:37 --> Config file loaded: C:\Users\Yousri\php\workspace\Memento\config/mongo_db.php
+INFO - 2018-02-11 14:20:37 --> Controller Class Initialized
+INFO - 2018-02-11 14:20:37 --> Model Class Initialized
+INFO - 2018-02-11 14:20:37 --> Helper loaded: debug_helper
+INFO - 2018-02-11 14:20:37 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\templates/synapse.php
+INFO - 2018-02-11 14:20:37 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_head_dev.php
+ERROR - 2018-02-11 14:20:37 --> Severity: Notice --> Undefined variable: mem_config C:\Users\Yousri\php\workspace\Memento\views\memento.php 12
+ERROR - 2018-02-11 14:20:37 --> Severity: Warning --> Invalid argument supplied for foreach() C:\Users\Yousri\php\workspace\Memento\views\memento.php 12
+INFO - 2018-02-11 14:20:37 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento.php
+INFO - 2018-02-11 14:20:37 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_scripts_dev.php
+INFO - 2018-02-11 14:20:37 --> Final output sent to browser
+DEBUG - 2018-02-11 14:20:37 --> Total execution time: 0.0655
+INFO - 2018-02-11 14:21:11 --> Config Class Initialized
+INFO - 2018-02-11 14:21:11 --> Hooks Class Initialized
+DEBUG - 2018-02-11 14:21:11 --> UTF-8 Support Enabled
+INFO - 2018-02-11 14:21:11 --> Utf8 Class Initialized
+INFO - 2018-02-11 14:21:11 --> URI Class Initialized
+INFO - 2018-02-11 14:21:11 --> Router Class Initialized
+INFO - 2018-02-11 14:21:11 --> Output Class Initialized
+INFO - 2018-02-11 14:21:11 --> Security Class Initialized
+DEBUG - 2018-02-11 14:21:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-02-11 14:21:11 --> Input Class Initialized
+INFO - 2018-02-11 14:21:11 --> Language Class Initialized
+INFO - 2018-02-11 14:21:11 --> Loader Class Initialized
+INFO - 2018-02-11 14:21:11 --> Helper loaded: url_helper
+DEBUG - 2018-02-11 14:21:11 --> Config file loaded: C:\Users\Yousri\php\workspace\Memento\config/mongo_db.php
+INFO - 2018-02-11 14:21:11 --> Controller Class Initialized
+INFO - 2018-02-11 14:21:11 --> Model Class Initialized
+INFO - 2018-02-11 14:21:11 --> Helper loaded: debug_helper
+INFO - 2018-02-11 14:21:11 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\templates/synapse.php
+INFO - 2018-02-11 14:21:11 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_head_dev.php
+INFO - 2018-02-11 14:21:11 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento.php
+INFO - 2018-02-11 14:21:11 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_scripts_dev.php
+INFO - 2018-02-11 14:21:11 --> Final output sent to browser
+DEBUG - 2018-02-11 14:21:11 --> Total execution time: 0.0722
+INFO - 2018-02-11 14:25:50 --> Config Class Initialized
+INFO - 2018-02-11 14:25:50 --> Hooks Class Initialized
+DEBUG - 2018-02-11 14:25:50 --> UTF-8 Support Enabled
+INFO - 2018-02-11 14:25:50 --> Utf8 Class Initialized
+INFO - 2018-02-11 14:25:50 --> URI Class Initialized
+INFO - 2018-02-11 14:25:50 --> Router Class Initialized
+INFO - 2018-02-11 14:25:50 --> Output Class Initialized
+INFO - 2018-02-11 14:25:50 --> Security Class Initialized
+DEBUG - 2018-02-11 14:25:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-02-11 14:25:50 --> Input Class Initialized
+INFO - 2018-02-11 14:25:50 --> Language Class Initialized
+INFO - 2018-02-11 14:25:50 --> Loader Class Initialized
+INFO - 2018-02-11 14:25:50 --> Helper loaded: url_helper
+DEBUG - 2018-02-11 14:25:50 --> Config file loaded: C:\Users\Yousri\php\workspace\Memento\config/mongo_db.php
+INFO - 2018-02-11 14:25:50 --> Controller Class Initialized
+INFO - 2018-02-11 14:25:50 --> Model Class Initialized
+INFO - 2018-02-11 14:25:50 --> Helper loaded: debug_helper
+INFO - 2018-02-11 14:25:50 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\templates/synapse.php
+INFO - 2018-02-11 14:25:50 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_head_dev.php
+INFO - 2018-02-11 14:25:50 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento.php
+INFO - 2018-02-11 14:25:50 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_scripts_dev.php
+INFO - 2018-02-11 14:25:50 --> Final output sent to browser
+DEBUG - 2018-02-11 14:25:50 --> Total execution time: 0.0731
+INFO - 2018-02-11 14:27:55 --> Config Class Initialized
+INFO - 2018-02-11 14:27:55 --> Hooks Class Initialized
+DEBUG - 2018-02-11 14:27:55 --> UTF-8 Support Enabled
+INFO - 2018-02-11 14:27:55 --> Utf8 Class Initialized
+INFO - 2018-02-11 14:27:55 --> URI Class Initialized
+INFO - 2018-02-11 14:27:55 --> Router Class Initialized
+INFO - 2018-02-11 14:27:55 --> Output Class Initialized
+INFO - 2018-02-11 14:27:55 --> Security Class Initialized
+DEBUG - 2018-02-11 14:27:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-02-11 14:27:55 --> Input Class Initialized
+INFO - 2018-02-11 14:27:55 --> Language Class Initialized
+INFO - 2018-02-11 14:27:55 --> Loader Class Initialized
+INFO - 2018-02-11 14:27:55 --> Helper loaded: url_helper
+DEBUG - 2018-02-11 14:27:55 --> Config file loaded: C:\Users\Yousri\php\workspace\Memento\config/mongo_db.php
+INFO - 2018-02-11 14:27:55 --> Controller Class Initialized
+INFO - 2018-02-11 14:27:55 --> Model Class Initialized
+INFO - 2018-02-11 14:27:55 --> Helper loaded: debug_helper
+INFO - 2018-02-11 14:27:56 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\templates/synapse.php
+INFO - 2018-02-11 14:27:56 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_head_dev.php
+INFO - 2018-02-11 14:27:56 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento.php
+INFO - 2018-02-11 14:27:56 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_scripts_dev.php
+INFO - 2018-02-11 14:27:56 --> Final output sent to browser
+DEBUG - 2018-02-11 14:27:56 --> Total execution time: 0.0633
+INFO - 2018-02-11 14:29:51 --> Config Class Initialized
+INFO - 2018-02-11 14:29:51 --> Hooks Class Initialized
+DEBUG - 2018-02-11 14:29:51 --> UTF-8 Support Enabled
+INFO - 2018-02-11 14:29:51 --> Utf8 Class Initialized
+INFO - 2018-02-11 14:29:51 --> URI Class Initialized
+INFO - 2018-02-11 14:29:51 --> Router Class Initialized
+INFO - 2018-02-11 14:29:51 --> Output Class Initialized
+INFO - 2018-02-11 14:29:51 --> Security Class Initialized
+DEBUG - 2018-02-11 14:29:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-02-11 14:29:51 --> Input Class Initialized
+INFO - 2018-02-11 14:29:51 --> Language Class Initialized
+INFO - 2018-02-11 14:29:51 --> Loader Class Initialized
+INFO - 2018-02-11 14:29:51 --> Helper loaded: url_helper
+DEBUG - 2018-02-11 14:29:51 --> Config file loaded: C:\Users\Yousri\php\workspace\Memento\config/mongo_db.php
+INFO - 2018-02-11 14:29:51 --> Controller Class Initialized
+INFO - 2018-02-11 14:29:51 --> Model Class Initialized
+INFO - 2018-02-11 14:29:51 --> Helper loaded: debug_helper
+INFO - 2018-02-11 14:29:51 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\templates/synapse.php
+INFO - 2018-02-11 14:29:51 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_head_dev.php
+INFO - 2018-02-11 14:29:51 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento.php
+INFO - 2018-02-11 14:29:51 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_scripts_dev.php
+INFO - 2018-02-11 14:29:51 --> Final output sent to browser
+DEBUG - 2018-02-11 14:29:51 --> Total execution time: 0.0716
+INFO - 2018-02-11 14:30:29 --> Config Class Initialized
+INFO - 2018-02-11 14:30:29 --> Hooks Class Initialized
+DEBUG - 2018-02-11 14:30:29 --> UTF-8 Support Enabled
+INFO - 2018-02-11 14:30:29 --> Utf8 Class Initialized
+INFO - 2018-02-11 14:30:29 --> URI Class Initialized
+INFO - 2018-02-11 14:30:29 --> Router Class Initialized
+INFO - 2018-02-11 14:30:29 --> Output Class Initialized
+INFO - 2018-02-11 14:30:29 --> Security Class Initialized
+DEBUG - 2018-02-11 14:30:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-02-11 14:30:29 --> Input Class Initialized
+INFO - 2018-02-11 14:30:29 --> Language Class Initialized
+INFO - 2018-02-11 14:30:29 --> Loader Class Initialized
+INFO - 2018-02-11 14:30:29 --> Helper loaded: url_helper
+DEBUG - 2018-02-11 14:30:29 --> Config file loaded: C:\Users\Yousri\php\workspace\Memento\config/mongo_db.php
+INFO - 2018-02-11 14:30:29 --> Controller Class Initialized
+INFO - 2018-02-11 14:30:29 --> Model Class Initialized
+INFO - 2018-02-11 14:30:29 --> Helper loaded: debug_helper
+INFO - 2018-02-11 14:30:29 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\templates/synapse.php
+INFO - 2018-02-11 14:30:29 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_head_dev.php
+INFO - 2018-02-11 14:30:29 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento.php
+INFO - 2018-02-11 14:30:29 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_scripts_dev.php
+INFO - 2018-02-11 14:30:29 --> Final output sent to browser
+DEBUG - 2018-02-11 14:30:29 --> Total execution time: 0.0616
+INFO - 2018-02-11 14:31:38 --> Config Class Initialized
+INFO - 2018-02-11 14:31:38 --> Hooks Class Initialized
+DEBUG - 2018-02-11 14:31:38 --> UTF-8 Support Enabled
+INFO - 2018-02-11 14:31:38 --> Utf8 Class Initialized
+INFO - 2018-02-11 14:31:38 --> URI Class Initialized
+INFO - 2018-02-11 14:31:38 --> Router Class Initialized
+INFO - 2018-02-11 14:31:38 --> Output Class Initialized
+INFO - 2018-02-11 14:31:38 --> Security Class Initialized
+DEBUG - 2018-02-11 14:31:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-02-11 14:31:38 --> Input Class Initialized
+INFO - 2018-02-11 14:31:38 --> Language Class Initialized
+INFO - 2018-02-11 14:31:38 --> Loader Class Initialized
+INFO - 2018-02-11 14:31:38 --> Helper loaded: url_helper
+DEBUG - 2018-02-11 14:31:38 --> Config file loaded: C:\Users\Yousri\php\workspace\Memento\config/mongo_db.php
+INFO - 2018-02-11 14:31:38 --> Controller Class Initialized
+INFO - 2018-02-11 14:31:38 --> Model Class Initialized
+INFO - 2018-02-11 14:31:38 --> Helper loaded: debug_helper
+INFO - 2018-02-11 14:31:38 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\templates/synapse.php
+INFO - 2018-02-11 14:31:38 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_head_dev.php
+INFO - 2018-02-11 14:31:38 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento.php
+INFO - 2018-02-11 14:31:38 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_scripts_dev.php
+INFO - 2018-02-11 14:31:38 --> Final output sent to browser
+DEBUG - 2018-02-11 14:31:38 --> Total execution time: 0.0589
+INFO - 2018-02-11 14:51:47 --> Config Class Initialized
+INFO - 2018-02-11 14:51:47 --> Hooks Class Initialized
+DEBUG - 2018-02-11 14:51:47 --> UTF-8 Support Enabled
+INFO - 2018-02-11 14:51:47 --> Utf8 Class Initialized
+INFO - 2018-02-11 14:51:47 --> URI Class Initialized
+INFO - 2018-02-11 14:51:47 --> Router Class Initialized
+INFO - 2018-02-11 14:51:47 --> Output Class Initialized
+INFO - 2018-02-11 14:51:47 --> Security Class Initialized
+DEBUG - 2018-02-11 14:51:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-02-11 14:51:47 --> Input Class Initialized
+INFO - 2018-02-11 14:51:47 --> Language Class Initialized
+INFO - 2018-02-11 14:51:47 --> Loader Class Initialized
+INFO - 2018-02-11 14:51:47 --> Helper loaded: url_helper
+DEBUG - 2018-02-11 14:51:47 --> Config file loaded: C:\Users\Yousri\php\workspace\Memento\config/mongo_db.php
+INFO - 2018-02-11 14:51:47 --> Controller Class Initialized
+INFO - 2018-02-11 14:51:47 --> Model Class Initialized
+INFO - 2018-02-11 14:51:47 --> Helper loaded: debug_helper
+ERROR - 2018-02-11 14:51:47 --> Severity: Notice --> Undefined index: synapases C:\Users\Yousri\php\workspace\Memento\controllers\memento.php 18
+ERROR - 2018-02-11 14:51:47 --> Severity: Warning --> Invalid argument supplied for foreach() C:\Users\Yousri\php\workspace\Memento\controllers\memento.php 18
+INFO - 2018-02-11 14:51:47 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_head_dev.php
+ERROR - 2018-02-11 14:51:47 --> Severity: Notice --> Undefined variable: synapses C:\Users\Yousri\php\workspace\Memento\views\memento.php 33
+INFO - 2018-02-11 14:51:47 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento.php
+INFO - 2018-02-11 14:51:47 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_scripts_dev.php
+INFO - 2018-02-11 14:51:47 --> Final output sent to browser
+DEBUG - 2018-02-11 14:51:47 --> Total execution time: 0.0800
+INFO - 2018-02-11 14:52:36 --> Config Class Initialized
+INFO - 2018-02-11 14:52:36 --> Hooks Class Initialized
+DEBUG - 2018-02-11 14:52:36 --> UTF-8 Support Enabled
+INFO - 2018-02-11 14:52:36 --> Utf8 Class Initialized
+INFO - 2018-02-11 14:52:36 --> URI Class Initialized
+INFO - 2018-02-11 14:52:36 --> Router Class Initialized
+INFO - 2018-02-11 14:52:36 --> Output Class Initialized
+INFO - 2018-02-11 14:52:36 --> Security Class Initialized
+DEBUG - 2018-02-11 14:52:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-02-11 14:52:36 --> Input Class Initialized
+INFO - 2018-02-11 14:52:36 --> Language Class Initialized
+INFO - 2018-02-11 14:52:36 --> Loader Class Initialized
+INFO - 2018-02-11 14:52:36 --> Helper loaded: url_helper
+DEBUG - 2018-02-11 14:52:36 --> Config file loaded: C:\Users\Yousri\php\workspace\Memento\config/mongo_db.php
+INFO - 2018-02-11 14:52:36 --> Controller Class Initialized
+INFO - 2018-02-11 14:52:36 --> Model Class Initialized
+INFO - 2018-02-11 14:52:36 --> Helper loaded: debug_helper
+ERROR - 2018-02-11 14:52:36 --> Severity: Notice --> Undefined index: synapse C:\Users\Yousri\php\workspace\Memento\controllers\memento.php 19
+ERROR - 2018-02-11 14:52:36 --> Severity: Notice --> Undefined variable: synapse C:\Users\Yousri\php\workspace\Memento\views\templates\synapse.php 29
+ERROR - 2018-02-11 14:52:36 --> Severity: Warning --> Invalid argument supplied for foreach() C:\Users\Yousri\php\workspace\Memento\views\templates\synapse.php 29
+INFO - 2018-02-11 14:52:36 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\templates/synapse.php
+ERROR - 2018-02-11 14:52:36 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given C:\Users\Yousri\php\workspace\Memento\controllers\memento.php 19
+ERROR - 2018-02-11 14:52:36 --> Severity: Notice --> Undefined index: synapse C:\Users\Yousri\php\workspace\Memento\controllers\memento.php 19
+ERROR - 2018-02-11 14:52:36 --> Severity: Notice --> Undefined variable: synapse C:\Users\Yousri\php\workspace\Memento\views\templates\synapse.php 29
+ERROR - 2018-02-11 14:52:36 --> Severity: Warning --> Invalid argument supplied for foreach() C:\Users\Yousri\php\workspace\Memento\views\templates\synapse.php 29
+INFO - 2018-02-11 14:52:36 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\templates/synapse.php
+ERROR - 2018-02-11 14:52:36 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given C:\Users\Yousri\php\workspace\Memento\controllers\memento.php 19
+ERROR - 2018-02-11 14:52:36 --> Severity: Notice --> Undefined index: synapse C:\Users\Yousri\php\workspace\Memento\controllers\memento.php 19
+ERROR - 2018-02-11 14:52:36 --> Severity: Notice --> Undefined variable: synapse C:\Users\Yousri\php\workspace\Memento\views\templates\synapse.php 29
+ERROR - 2018-02-11 14:52:36 --> Severity: Warning --> Invalid argument supplied for foreach() C:\Users\Yousri\php\workspace\Memento\views\templates\synapse.php 29
+INFO - 2018-02-11 14:52:36 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\templates/synapse.php
+ERROR - 2018-02-11 14:52:36 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given C:\Users\Yousri\php\workspace\Memento\controllers\memento.php 19
+ERROR - 2018-02-11 14:52:36 --> Severity: Notice --> Undefined index: synapse C:\Users\Yousri\php\workspace\Memento\controllers\memento.php 19
+ERROR - 2018-02-11 14:52:36 --> Severity: Notice --> Undefined variable: synapse C:\Users\Yousri\php\workspace\Memento\views\templates\synapse.php 29
+ERROR - 2018-02-11 14:52:36 --> Severity: Warning --> Invalid argument supplied for foreach() C:\Users\Yousri\php\workspace\Memento\views\templates\synapse.php 29
+INFO - 2018-02-11 14:52:36 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\templates/synapse.php
+ERROR - 2018-02-11 14:52:36 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given C:\Users\Yousri\php\workspace\Memento\controllers\memento.php 19
+INFO - 2018-02-11 14:52:36 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_head_dev.php
+INFO - 2018-02-11 14:52:36 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento.php
+INFO - 2018-02-11 14:52:36 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_scripts_dev.php
+INFO - 2018-02-11 14:52:36 --> Final output sent to browser
+DEBUG - 2018-02-11 14:52:36 --> Total execution time: 0.0983
+INFO - 2018-02-11 14:53:10 --> Config Class Initialized
+INFO - 2018-02-11 14:53:10 --> Hooks Class Initialized
+DEBUG - 2018-02-11 14:53:10 --> UTF-8 Support Enabled
+INFO - 2018-02-11 14:53:10 --> Utf8 Class Initialized
+INFO - 2018-02-11 14:53:10 --> URI Class Initialized
+INFO - 2018-02-11 14:53:10 --> Router Class Initialized
+INFO - 2018-02-11 14:53:10 --> Output Class Initialized
+INFO - 2018-02-11 14:53:10 --> Security Class Initialized
+DEBUG - 2018-02-11 14:53:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-02-11 14:53:10 --> Input Class Initialized
+INFO - 2018-02-11 14:53:10 --> Language Class Initialized
+INFO - 2018-02-11 14:53:10 --> Loader Class Initialized
+INFO - 2018-02-11 14:53:10 --> Helper loaded: url_helper
+DEBUG - 2018-02-11 14:53:10 --> Config file loaded: C:\Users\Yousri\php\workspace\Memento\config/mongo_db.php
+INFO - 2018-02-11 14:53:10 --> Controller Class Initialized
+INFO - 2018-02-11 14:53:10 --> Model Class Initialized
+INFO - 2018-02-11 14:53:10 --> Helper loaded: debug_helper
+ERROR - 2018-02-11 14:53:10 --> Severity: Notice --> Undefined variable: synapse C:\Users\Yousri\php\workspace\Memento\views\templates\synapse.php 29
+ERROR - 2018-02-11 14:53:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\Users\Yousri\php\workspace\Memento\views\templates\synapse.php 29
+INFO - 2018-02-11 14:53:10 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\templates/synapse.php
+ERROR - 2018-02-11 14:53:10 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given C:\Users\Yousri\php\workspace\Memento\controllers\memento.php 19
+ERROR - 2018-02-11 14:53:10 --> Severity: Notice --> Undefined variable: synapse C:\Users\Yousri\php\workspace\Memento\views\templates\synapse.php 29
+ERROR - 2018-02-11 14:53:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\Users\Yousri\php\workspace\Memento\views\templates\synapse.php 29
+INFO - 2018-02-11 14:53:10 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\templates/synapse.php
+ERROR - 2018-02-11 14:53:10 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given C:\Users\Yousri\php\workspace\Memento\controllers\memento.php 19
+ERROR - 2018-02-11 14:53:10 --> Severity: Notice --> Undefined variable: synapse C:\Users\Yousri\php\workspace\Memento\views\templates\synapse.php 29
+ERROR - 2018-02-11 14:53:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\Users\Yousri\php\workspace\Memento\views\templates\synapse.php 29
+INFO - 2018-02-11 14:53:10 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\templates/synapse.php
+ERROR - 2018-02-11 14:53:10 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given C:\Users\Yousri\php\workspace\Memento\controllers\memento.php 19
+ERROR - 2018-02-11 14:53:10 --> Severity: Notice --> Undefined variable: synapse C:\Users\Yousri\php\workspace\Memento\views\templates\synapse.php 29
+ERROR - 2018-02-11 14:53:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\Users\Yousri\php\workspace\Memento\views\templates\synapse.php 29
+INFO - 2018-02-11 14:53:10 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\templates/synapse.php
+ERROR - 2018-02-11 14:53:10 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given C:\Users\Yousri\php\workspace\Memento\controllers\memento.php 19
+INFO - 2018-02-11 14:53:10 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_head_dev.php
+INFO - 2018-02-11 14:53:10 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento.php
+INFO - 2018-02-11 14:53:10 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_scripts_dev.php
+INFO - 2018-02-11 14:53:10 --> Final output sent to browser
+DEBUG - 2018-02-11 14:53:10 --> Total execution time: 0.0742
+INFO - 2018-02-11 14:55:01 --> Config Class Initialized
+INFO - 2018-02-11 14:55:01 --> Hooks Class Initialized
+DEBUG - 2018-02-11 14:55:01 --> UTF-8 Support Enabled
+INFO - 2018-02-11 14:55:01 --> Utf8 Class Initialized
+INFO - 2018-02-11 14:55:01 --> URI Class Initialized
+INFO - 2018-02-11 14:55:01 --> Router Class Initialized
+INFO - 2018-02-11 14:55:01 --> Output Class Initialized
+INFO - 2018-02-11 14:55:01 --> Security Class Initialized
+DEBUG - 2018-02-11 14:55:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-02-11 14:55:01 --> Input Class Initialized
+INFO - 2018-02-11 14:55:01 --> Language Class Initialized
+INFO - 2018-02-11 14:55:01 --> Loader Class Initialized
+INFO - 2018-02-11 14:55:01 --> Helper loaded: url_helper
+DEBUG - 2018-02-11 14:55:01 --> Config file loaded: C:\Users\Yousri\php\workspace\Memento\config/mongo_db.php
+INFO - 2018-02-11 14:55:01 --> Controller Class Initialized
+INFO - 2018-02-11 14:55:01 --> Model Class Initialized
+INFO - 2018-02-11 14:55:01 --> Helper loaded: debug_helper
+ERROR - 2018-02-11 14:55:01 --> Severity: Notice --> Undefined variable: synapse C:\Users\Yousri\php\workspace\Memento\views\templates\synapse.php 29
+ERROR - 2018-02-11 14:55:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\Users\Yousri\php\workspace\Memento\views\templates\synapse.php 29
+INFO - 2018-02-11 14:55:01 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\templates/synapse.php
+ERROR - 2018-02-11 14:55:01 --> Severity: Notice --> Undefined variable: synapse C:\Users\Yousri\php\workspace\Memento\views\templates\synapse.php 29
+ERROR - 2018-02-11 14:55:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\Users\Yousri\php\workspace\Memento\views\templates\synapse.php 29
+INFO - 2018-02-11 14:55:01 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\templates/synapse.php
+ERROR - 2018-02-11 14:55:01 --> Severity: Notice --> Undefined variable: synapse C:\Users\Yousri\php\workspace\Memento\views\templates\synapse.php 29
+ERROR - 2018-02-11 14:55:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\Users\Yousri\php\workspace\Memento\views\templates\synapse.php 29
+INFO - 2018-02-11 14:55:01 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\templates/synapse.php
+ERROR - 2018-02-11 14:55:01 --> Severity: Notice --> Undefined variable: synapse C:\Users\Yousri\php\workspace\Memento\views\templates\synapse.php 29
+ERROR - 2018-02-11 14:55:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\Users\Yousri\php\workspace\Memento\views\templates\synapse.php 29
+INFO - 2018-02-11 14:55:01 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\templates/synapse.php
+INFO - 2018-02-11 14:55:01 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_head_dev.php
+INFO - 2018-02-11 14:55:01 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento.php
+INFO - 2018-02-11 14:55:01 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_scripts_dev.php
+INFO - 2018-02-11 14:55:01 --> Final output sent to browser
+DEBUG - 2018-02-11 14:55:01 --> Total execution time: 0.0760
+INFO - 2018-02-11 14:55:58 --> Config Class Initialized
+INFO - 2018-02-11 14:55:58 --> Hooks Class Initialized
+DEBUG - 2018-02-11 14:55:58 --> UTF-8 Support Enabled
+INFO - 2018-02-11 14:55:58 --> Utf8 Class Initialized
+INFO - 2018-02-11 14:55:58 --> URI Class Initialized
+INFO - 2018-02-11 14:55:58 --> Router Class Initialized
+INFO - 2018-02-11 14:55:58 --> Output Class Initialized
+INFO - 2018-02-11 14:55:58 --> Security Class Initialized
+DEBUG - 2018-02-11 14:55:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-02-11 14:55:58 --> Input Class Initialized
+INFO - 2018-02-11 14:55:58 --> Language Class Initialized
+INFO - 2018-02-11 14:55:58 --> Loader Class Initialized
+INFO - 2018-02-11 14:55:58 --> Helper loaded: url_helper
+DEBUG - 2018-02-11 14:55:58 --> Config file loaded: C:\Users\Yousri\php\workspace\Memento\config/mongo_db.php
+INFO - 2018-02-11 14:55:58 --> Controller Class Initialized
+INFO - 2018-02-11 14:55:58 --> Model Class Initialized
+INFO - 2018-02-11 14:55:58 --> Helper loaded: debug_helper
+ERROR - 2018-02-11 14:55:58 --> Severity: Notice --> Undefined variable: questions C:\Users\Yousri\php\workspace\Memento\views\templates\synapse.php 29
+ERROR - 2018-02-11 14:55:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\Users\Yousri\php\workspace\Memento\views\templates\synapse.php 29
+INFO - 2018-02-11 14:55:58 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\templates/synapse.php
+ERROR - 2018-02-11 14:55:58 --> Severity: Notice --> Undefined variable: questions C:\Users\Yousri\php\workspace\Memento\views\templates\synapse.php 29
+ERROR - 2018-02-11 14:55:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\Users\Yousri\php\workspace\Memento\views\templates\synapse.php 29
+INFO - 2018-02-11 14:55:58 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\templates/synapse.php
+ERROR - 2018-02-11 14:55:58 --> Severity: Notice --> Undefined variable: questions C:\Users\Yousri\php\workspace\Memento\views\templates\synapse.php 29
+ERROR - 2018-02-11 14:55:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\Users\Yousri\php\workspace\Memento\views\templates\synapse.php 29
+INFO - 2018-02-11 14:55:58 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\templates/synapse.php
+ERROR - 2018-02-11 14:55:58 --> Severity: Notice --> Undefined variable: questions C:\Users\Yousri\php\workspace\Memento\views\templates\synapse.php 29
+ERROR - 2018-02-11 14:55:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\Users\Yousri\php\workspace\Memento\views\templates\synapse.php 29
+INFO - 2018-02-11 14:55:58 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\templates/synapse.php
+INFO - 2018-02-11 14:55:58 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_head_dev.php
+INFO - 2018-02-11 14:55:58 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento.php
+INFO - 2018-02-11 14:55:58 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_scripts_dev.php
+INFO - 2018-02-11 14:55:58 --> Final output sent to browser
+DEBUG - 2018-02-11 14:55:58 --> Total execution time: 0.0790
+INFO - 2018-02-11 15:07:54 --> Config Class Initialized
+INFO - 2018-02-11 15:07:54 --> Hooks Class Initialized
+DEBUG - 2018-02-11 15:07:54 --> UTF-8 Support Enabled
+INFO - 2018-02-11 15:07:54 --> Utf8 Class Initialized
+INFO - 2018-02-11 15:07:54 --> URI Class Initialized
+INFO - 2018-02-11 15:07:54 --> Router Class Initialized
+INFO - 2018-02-11 15:07:54 --> Output Class Initialized
+INFO - 2018-02-11 15:07:54 --> Security Class Initialized
+DEBUG - 2018-02-11 15:07:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-02-11 15:07:54 --> Input Class Initialized
+INFO - 2018-02-11 15:07:54 --> Language Class Initialized
+INFO - 2018-02-11 15:07:54 --> Loader Class Initialized
+INFO - 2018-02-11 15:07:54 --> Helper loaded: url_helper
+DEBUG - 2018-02-11 15:07:54 --> Config file loaded: C:\Users\Yousri\php\workspace\Memento\config/mongo_db.php
+INFO - 2018-02-11 15:07:54 --> Controller Class Initialized
+INFO - 2018-02-11 15:07:54 --> Model Class Initialized
+INFO - 2018-02-11 15:07:54 --> Helper loaded: debug_helper
+INFO - 2018-02-11 15:07:54 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\templates/synapse.php
+INFO - 2018-02-11 15:07:54 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_head_dev.php
+INFO - 2018-02-11 15:07:54 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento.php
+INFO - 2018-02-11 15:07:54 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_scripts_dev.php
+INFO - 2018-02-11 15:07:54 --> Final output sent to browser
+DEBUG - 2018-02-11 15:07:54 --> Total execution time: 0.0792
+INFO - 2018-02-11 15:09:57 --> Config Class Initialized
+INFO - 2018-02-11 15:09:57 --> Hooks Class Initialized
+DEBUG - 2018-02-11 15:09:57 --> UTF-8 Support Enabled
+INFO - 2018-02-11 15:09:57 --> Utf8 Class Initialized
+INFO - 2018-02-11 15:09:57 --> URI Class Initialized
+INFO - 2018-02-11 15:09:57 --> Router Class Initialized
+INFO - 2018-02-11 15:09:57 --> Output Class Initialized
+INFO - 2018-02-11 15:09:57 --> Security Class Initialized
+DEBUG - 2018-02-11 15:09:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-02-11 15:09:57 --> Input Class Initialized
+INFO - 2018-02-11 15:09:57 --> Language Class Initialized
+INFO - 2018-02-11 15:09:57 --> Loader Class Initialized
+INFO - 2018-02-11 15:09:57 --> Helper loaded: url_helper
+DEBUG - 2018-02-11 15:09:57 --> Config file loaded: C:\Users\Yousri\php\workspace\Memento\config/mongo_db.php
+INFO - 2018-02-11 15:09:57 --> Controller Class Initialized
+INFO - 2018-02-11 15:09:57 --> Model Class Initialized
+INFO - 2018-02-11 15:09:57 --> Helper loaded: debug_helper
+ERROR - 2018-02-11 15:09:57 --> Severity: error --> Exception: Cannot use object of type stdClass as array C:\Users\Yousri\php\workspace\Memento\views\templates\synapse.php 45
+INFO - 2018-02-11 15:10:57 --> Config Class Initialized
+INFO - 2018-02-11 15:10:57 --> Hooks Class Initialized
+DEBUG - 2018-02-11 15:10:57 --> UTF-8 Support Enabled
+INFO - 2018-02-11 15:10:57 --> Utf8 Class Initialized
+INFO - 2018-02-11 15:10:57 --> URI Class Initialized
+INFO - 2018-02-11 15:10:57 --> Router Class Initialized
+INFO - 2018-02-11 15:10:57 --> Output Class Initialized
+INFO - 2018-02-11 15:10:57 --> Security Class Initialized
+DEBUG - 2018-02-11 15:10:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-02-11 15:10:57 --> Input Class Initialized
+INFO - 2018-02-11 15:10:57 --> Language Class Initialized
+INFO - 2018-02-11 15:10:57 --> Loader Class Initialized
+INFO - 2018-02-11 15:10:57 --> Helper loaded: url_helper
+DEBUG - 2018-02-11 15:10:57 --> Config file loaded: C:\Users\Yousri\php\workspace\Memento\config/mongo_db.php
+INFO - 2018-02-11 15:10:57 --> Controller Class Initialized
+INFO - 2018-02-11 15:10:57 --> Model Class Initialized
+INFO - 2018-02-11 15:10:57 --> Helper loaded: debug_helper
+INFO - 2018-02-11 15:10:57 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\templates/synapse.php
+INFO - 2018-02-11 15:10:57 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_head_dev.php
+INFO - 2018-02-11 15:10:57 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento.php
+INFO - 2018-02-11 15:10:57 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_scripts_dev.php
+INFO - 2018-02-11 15:10:57 --> Final output sent to browser
+DEBUG - 2018-02-11 15:10:57 --> Total execution time: 0.0537
+INFO - 2018-02-11 15:13:11 --> Config Class Initialized
+INFO - 2018-02-11 15:13:11 --> Hooks Class Initialized
+DEBUG - 2018-02-11 15:13:11 --> UTF-8 Support Enabled
+INFO - 2018-02-11 15:13:11 --> Utf8 Class Initialized
+INFO - 2018-02-11 15:13:11 --> URI Class Initialized
+INFO - 2018-02-11 15:13:11 --> Router Class Initialized
+INFO - 2018-02-11 15:13:11 --> Output Class Initialized
+INFO - 2018-02-11 15:13:11 --> Security Class Initialized
+DEBUG - 2018-02-11 15:13:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-02-11 15:13:11 --> Input Class Initialized
+INFO - 2018-02-11 15:13:11 --> Language Class Initialized
+INFO - 2018-02-11 15:13:11 --> Loader Class Initialized
+INFO - 2018-02-11 15:13:11 --> Helper loaded: url_helper
+DEBUG - 2018-02-11 15:13:11 --> Config file loaded: C:\Users\Yousri\php\workspace\Memento\config/mongo_db.php
+INFO - 2018-02-11 15:13:11 --> Controller Class Initialized
+INFO - 2018-02-11 15:13:11 --> Model Class Initialized
+INFO - 2018-02-11 15:13:11 --> Helper loaded: debug_helper
+ERROR - 2018-02-11 15:13:11 --> Severity: Notice --> Undefined variable: code C:\Users\Yousri\php\workspace\Memento\views\templates\synapse.php 52
+INFO - 2018-02-11 15:13:11 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\templates/synapse.php
+INFO - 2018-02-11 15:13:11 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_head_dev.php
+INFO - 2018-02-11 15:13:11 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento.php
+INFO - 2018-02-11 15:13:11 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_scripts_dev.php
+INFO - 2018-02-11 15:13:11 --> Final output sent to browser
+DEBUG - 2018-02-11 15:13:11 --> Total execution time: 0.0659
+INFO - 2018-02-11 15:14:36 --> Config Class Initialized
+INFO - 2018-02-11 15:14:36 --> Hooks Class Initialized
+DEBUG - 2018-02-11 15:14:36 --> UTF-8 Support Enabled
+INFO - 2018-02-11 15:14:36 --> Utf8 Class Initialized
+INFO - 2018-02-11 15:14:36 --> URI Class Initialized
+INFO - 2018-02-11 15:14:36 --> Router Class Initialized
+INFO - 2018-02-11 15:14:36 --> Output Class Initialized
+INFO - 2018-02-11 15:14:36 --> Security Class Initialized
+DEBUG - 2018-02-11 15:14:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-02-11 15:14:36 --> Input Class Initialized
+INFO - 2018-02-11 15:14:36 --> Language Class Initialized
+INFO - 2018-02-11 15:14:36 --> Loader Class Initialized
+INFO - 2018-02-11 15:14:36 --> Helper loaded: url_helper
+DEBUG - 2018-02-11 15:14:36 --> Config file loaded: C:\Users\Yousri\php\workspace\Memento\config/mongo_db.php
+INFO - 2018-02-11 15:14:36 --> Controller Class Initialized
+INFO - 2018-02-11 15:14:36 --> Model Class Initialized
+INFO - 2018-02-11 15:14:36 --> Helper loaded: debug_helper
+ERROR - 2018-02-11 15:14:36 --> Severity: Notice --> Undefined property: stdClass::$tags C:\Users\Yousri\php\workspace\Memento\views\templates\synapse.php 58
+ERROR - 2018-02-11 15:14:36 --> Severity: Warning --> Invalid argument supplied for foreach() C:\Users\Yousri\php\workspace\Memento\views\templates\synapse.php 58
+INFO - 2018-02-11 15:14:36 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\templates/synapse.php
+INFO - 2018-02-11 15:14:36 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_head_dev.php
+INFO - 2018-02-11 15:14:36 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento.php
+INFO - 2018-02-11 15:14:36 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_scripts_dev.php
+INFO - 2018-02-11 15:14:36 --> Final output sent to browser
+DEBUG - 2018-02-11 15:14:36 --> Total execution time: 0.0629
+INFO - 2018-02-11 15:15:58 --> Config Class Initialized
+INFO - 2018-02-11 15:15:58 --> Hooks Class Initialized
+DEBUG - 2018-02-11 15:15:58 --> UTF-8 Support Enabled
+INFO - 2018-02-11 15:15:58 --> Utf8 Class Initialized
+INFO - 2018-02-11 15:15:58 --> URI Class Initialized
+INFO - 2018-02-11 15:15:58 --> Router Class Initialized
+INFO - 2018-02-11 15:15:58 --> Output Class Initialized
+INFO - 2018-02-11 15:15:58 --> Security Class Initialized
+DEBUG - 2018-02-11 15:15:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-02-11 15:15:58 --> Input Class Initialized
+INFO - 2018-02-11 15:15:58 --> Language Class Initialized
+INFO - 2018-02-11 15:15:58 --> Loader Class Initialized
+INFO - 2018-02-11 15:15:58 --> Helper loaded: url_helper
+DEBUG - 2018-02-11 15:15:58 --> Config file loaded: C:\Users\Yousri\php\workspace\Memento\config/mongo_db.php
+INFO - 2018-02-11 15:15:58 --> Controller Class Initialized
+INFO - 2018-02-11 15:15:58 --> Model Class Initialized
+INFO - 2018-02-11 15:15:58 --> Helper loaded: debug_helper
+INFO - 2018-02-11 15:15:58 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\templates/synapse.php
+INFO - 2018-02-11 15:15:58 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_head_dev.php
+INFO - 2018-02-11 15:15:58 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento.php
+INFO - 2018-02-11 15:15:58 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_scripts_dev.php
+INFO - 2018-02-11 15:15:58 --> Final output sent to browser
+DEBUG - 2018-02-11 15:15:58 --> Total execution time: 0.0638
+INFO - 2018-02-11 15:17:17 --> Config Class Initialized
+INFO - 2018-02-11 15:17:17 --> Hooks Class Initialized
+DEBUG - 2018-02-11 15:17:17 --> UTF-8 Support Enabled
+INFO - 2018-02-11 15:17:17 --> Utf8 Class Initialized
+INFO - 2018-02-11 15:17:17 --> URI Class Initialized
+INFO - 2018-02-11 15:17:17 --> Router Class Initialized
+INFO - 2018-02-11 15:17:17 --> Output Class Initialized
+INFO - 2018-02-11 15:17:17 --> Security Class Initialized
+DEBUG - 2018-02-11 15:17:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-02-11 15:17:17 --> Input Class Initialized
+INFO - 2018-02-11 15:17:17 --> Language Class Initialized
+INFO - 2018-02-11 15:17:17 --> Loader Class Initialized
+INFO - 2018-02-11 15:17:17 --> Helper loaded: url_helper
+DEBUG - 2018-02-11 15:17:17 --> Config file loaded: C:\Users\Yousri\php\workspace\Memento\config/mongo_db.php
+INFO - 2018-02-11 15:17:17 --> Controller Class Initialized
+INFO - 2018-02-11 15:17:17 --> Model Class Initialized
+INFO - 2018-02-11 15:17:17 --> Helper loaded: debug_helper
+INFO - 2018-02-11 15:17:17 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\templates/synapse.php
+INFO - 2018-02-11 15:17:17 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_head_dev.php
+INFO - 2018-02-11 15:17:17 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento.php
+INFO - 2018-02-11 15:17:17 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_scripts_dev.php
+INFO - 2018-02-11 15:17:17 --> Final output sent to browser
+DEBUG - 2018-02-11 15:17:17 --> Total execution time: 0.0661
+INFO - 2018-02-11 15:33:57 --> Config Class Initialized
+INFO - 2018-02-11 15:33:57 --> Hooks Class Initialized
+DEBUG - 2018-02-11 15:33:57 --> UTF-8 Support Enabled
+INFO - 2018-02-11 15:33:57 --> Utf8 Class Initialized
+INFO - 2018-02-11 15:33:57 --> URI Class Initialized
+INFO - 2018-02-11 15:33:57 --> Router Class Initialized
+INFO - 2018-02-11 15:33:57 --> Output Class Initialized
+INFO - 2018-02-11 15:33:57 --> Security Class Initialized
+DEBUG - 2018-02-11 15:33:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-02-11 15:33:57 --> Input Class Initialized
+INFO - 2018-02-11 15:33:57 --> Language Class Initialized
+INFO - 2018-02-11 15:33:57 --> Loader Class Initialized
+INFO - 2018-02-11 15:33:57 --> Helper loaded: url_helper
+DEBUG - 2018-02-11 15:33:57 --> Config file loaded: C:\Users\Yousri\php\workspace\Memento\config/mongo_db.php
+INFO - 2018-02-11 15:33:57 --> Controller Class Initialized
+INFO - 2018-02-11 15:33:57 --> Model Class Initialized
+INFO - 2018-02-11 15:33:57 --> Helper loaded: debug_helper
+INFO - 2018-02-11 15:33:57 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\templates/synapse.php
+INFO - 2018-02-11 15:33:57 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\templates/synapse.php
+INFO - 2018-02-11 15:33:57 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\templates/synapse.php
+INFO - 2018-02-11 15:33:57 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_head_dev.php
+INFO - 2018-02-11 15:33:57 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento.php
+INFO - 2018-02-11 15:33:57 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_scripts_dev.php
+INFO - 2018-02-11 15:33:57 --> Final output sent to browser
+DEBUG - 2018-02-11 15:33:57 --> Total execution time: 0.0741
+INFO - 2018-02-11 15:36:06 --> Config Class Initialized
+INFO - 2018-02-11 15:36:06 --> Hooks Class Initialized
+DEBUG - 2018-02-11 15:36:06 --> UTF-8 Support Enabled
+INFO - 2018-02-11 15:36:06 --> Utf8 Class Initialized
+INFO - 2018-02-11 15:36:06 --> URI Class Initialized
+INFO - 2018-02-11 15:36:06 --> Router Class Initialized
+INFO - 2018-02-11 15:36:06 --> Output Class Initialized
+INFO - 2018-02-11 15:36:06 --> Security Class Initialized
+DEBUG - 2018-02-11 15:36:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-02-11 15:36:06 --> Input Class Initialized
+INFO - 2018-02-11 15:36:06 --> Language Class Initialized
+INFO - 2018-02-11 15:36:06 --> Loader Class Initialized
+INFO - 2018-02-11 15:36:06 --> Helper loaded: url_helper
+DEBUG - 2018-02-11 15:36:06 --> Config file loaded: C:\Users\Yousri\php\workspace\Memento\config/mongo_db.php
+INFO - 2018-02-11 15:36:06 --> Controller Class Initialized
+INFO - 2018-02-11 15:36:06 --> Model Class Initialized
+INFO - 2018-02-11 15:36:06 --> Helper loaded: debug_helper
+INFO - 2018-02-11 15:36:06 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\templates/synapse.php
+INFO - 2018-02-11 15:36:06 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\templates/synapse.php
+INFO - 2018-02-11 15:36:06 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\templates/synapse.php
+INFO - 2018-02-11 15:36:06 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_head_dev.php
+INFO - 2018-02-11 15:36:06 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento.php
+INFO - 2018-02-11 15:36:06 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_scripts_dev.php
+INFO - 2018-02-11 15:36:06 --> Final output sent to browser
+DEBUG - 2018-02-11 15:36:06 --> Total execution time: 0.0561
+INFO - 2018-02-11 15:38:42 --> Config Class Initialized
+INFO - 2018-02-11 15:38:42 --> Hooks Class Initialized
+DEBUG - 2018-02-11 15:38:42 --> UTF-8 Support Enabled
+INFO - 2018-02-11 15:38:42 --> Utf8 Class Initialized
+INFO - 2018-02-11 15:38:42 --> URI Class Initialized
+INFO - 2018-02-11 15:38:42 --> Router Class Initialized
+INFO - 2018-02-11 15:38:42 --> Output Class Initialized
+INFO - 2018-02-11 15:38:42 --> Security Class Initialized
+DEBUG - 2018-02-11 15:38:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-02-11 15:38:42 --> Input Class Initialized
+INFO - 2018-02-11 15:38:42 --> Language Class Initialized
+INFO - 2018-02-11 15:38:42 --> Loader Class Initialized
+INFO - 2018-02-11 15:38:42 --> Helper loaded: url_helper
+DEBUG - 2018-02-11 15:38:42 --> Config file loaded: C:\Users\Yousri\php\workspace\Memento\config/mongo_db.php
+INFO - 2018-02-11 15:38:42 --> Controller Class Initialized
+INFO - 2018-02-11 15:38:42 --> Model Class Initialized
+INFO - 2018-02-11 15:38:42 --> Helper loaded: debug_helper
+INFO - 2018-02-11 15:38:42 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\templates/synapse.php
+INFO - 2018-02-11 15:38:42 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\templates/synapse.php
+INFO - 2018-02-11 15:38:42 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\templates/synapse.php
+INFO - 2018-02-11 15:38:42 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_head_dev.php
+INFO - 2018-02-11 15:38:42 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento.php
+INFO - 2018-02-11 15:38:42 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_scripts_dev.php
+INFO - 2018-02-11 15:38:42 --> Final output sent to browser
+DEBUG - 2018-02-11 15:38:42 --> Total execution time: 0.0635
+INFO - 2018-02-11 15:39:01 --> Config Class Initialized
+INFO - 2018-02-11 15:39:01 --> Hooks Class Initialized
+DEBUG - 2018-02-11 15:39:01 --> UTF-8 Support Enabled
+INFO - 2018-02-11 15:39:01 --> Utf8 Class Initialized
+INFO - 2018-02-11 15:39:01 --> URI Class Initialized
+INFO - 2018-02-11 15:39:01 --> Router Class Initialized
+INFO - 2018-02-11 15:39:01 --> Output Class Initialized
+INFO - 2018-02-11 15:39:01 --> Security Class Initialized
+DEBUG - 2018-02-11 15:39:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-02-11 15:39:01 --> Input Class Initialized
+INFO - 2018-02-11 15:39:01 --> Language Class Initialized
+INFO - 2018-02-11 15:39:01 --> Loader Class Initialized
+INFO - 2018-02-11 15:39:01 --> Helper loaded: url_helper
+DEBUG - 2018-02-11 15:39:01 --> Config file loaded: C:\Users\Yousri\php\workspace\Memento\config/mongo_db.php
+INFO - 2018-02-11 15:39:01 --> Controller Class Initialized
+INFO - 2018-02-11 15:39:01 --> Model Class Initialized
+INFO - 2018-02-11 15:39:01 --> Helper loaded: debug_helper
+INFO - 2018-02-11 15:39:01 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\templates/synapse.php
+INFO - 2018-02-11 15:39:01 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\templates/synapse.php
+INFO - 2018-02-11 15:39:01 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\templates/synapse.php
+INFO - 2018-02-11 15:39:01 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_head_dev.php
+INFO - 2018-02-11 15:39:01 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento.php
+INFO - 2018-02-11 15:39:01 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_scripts_dev.php
+INFO - 2018-02-11 15:39:01 --> Final output sent to browser
+DEBUG - 2018-02-11 15:39:01 --> Total execution time: 0.0698
+INFO - 2018-02-11 15:40:37 --> Config Class Initialized
+INFO - 2018-02-11 15:40:37 --> Hooks Class Initialized
+DEBUG - 2018-02-11 15:40:37 --> UTF-8 Support Enabled
+INFO - 2018-02-11 15:40:37 --> Utf8 Class Initialized
+INFO - 2018-02-11 15:40:37 --> URI Class Initialized
+INFO - 2018-02-11 15:40:37 --> Router Class Initialized
+INFO - 2018-02-11 15:40:37 --> Output Class Initialized
+INFO - 2018-02-11 15:40:37 --> Security Class Initialized
+DEBUG - 2018-02-11 15:40:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-02-11 15:40:37 --> Input Class Initialized
+INFO - 2018-02-11 15:40:37 --> Language Class Initialized
+INFO - 2018-02-11 15:40:37 --> Loader Class Initialized
+INFO - 2018-02-11 15:40:37 --> Helper loaded: url_helper
+DEBUG - 2018-02-11 15:40:37 --> Config file loaded: C:\Users\Yousri\php\workspace\Memento\config/mongo_db.php
+INFO - 2018-02-11 15:40:37 --> Controller Class Initialized
+INFO - 2018-02-11 15:40:37 --> Model Class Initialized
+INFO - 2018-02-11 15:40:37 --> Helper loaded: debug_helper
+INFO - 2018-02-11 15:40:37 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\templates/synapse.php
+INFO - 2018-02-11 15:40:37 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\templates/synapse.php
+INFO - 2018-02-11 15:40:37 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\templates/synapse.php
+INFO - 2018-02-11 15:40:37 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_head_dev.php
+INFO - 2018-02-11 15:40:37 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento.php
+INFO - 2018-02-11 15:40:37 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_scripts_dev.php
+INFO - 2018-02-11 15:40:37 --> Final output sent to browser
+DEBUG - 2018-02-11 15:40:37 --> Total execution time: 0.0691
+INFO - 2018-02-11 15:42:32 --> Config Class Initialized
+INFO - 2018-02-11 15:42:32 --> Hooks Class Initialized
+DEBUG - 2018-02-11 15:42:32 --> UTF-8 Support Enabled
+INFO - 2018-02-11 15:42:32 --> Utf8 Class Initialized
+INFO - 2018-02-11 15:42:32 --> URI Class Initialized
+INFO - 2018-02-11 15:42:32 --> Router Class Initialized
+INFO - 2018-02-11 15:42:32 --> Output Class Initialized
+INFO - 2018-02-11 15:42:32 --> Security Class Initialized
+DEBUG - 2018-02-11 15:42:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-02-11 15:42:32 --> Input Class Initialized
+INFO - 2018-02-11 15:42:32 --> Language Class Initialized
+INFO - 2018-02-11 15:42:32 --> Loader Class Initialized
+INFO - 2018-02-11 15:42:32 --> Helper loaded: url_helper
+DEBUG - 2018-02-11 15:42:32 --> Config file loaded: C:\Users\Yousri\php\workspace\Memento\config/mongo_db.php
+INFO - 2018-02-11 15:42:32 --> Controller Class Initialized
+INFO - 2018-02-11 15:42:32 --> Model Class Initialized
+INFO - 2018-02-11 15:42:32 --> Helper loaded: debug_helper
+INFO - 2018-02-11 15:42:32 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\templates/synapse.php
+INFO - 2018-02-11 15:42:32 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\templates/synapse.php
+INFO - 2018-02-11 15:42:32 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\templates/synapse.php
+INFO - 2018-02-11 15:42:32 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_head_dev.php
+INFO - 2018-02-11 15:42:32 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento.php
+INFO - 2018-02-11 15:42:32 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_scripts_dev.php
+INFO - 2018-02-11 15:42:32 --> Final output sent to browser
+DEBUG - 2018-02-11 15:42:32 --> Total execution time: 0.0647
+INFO - 2018-02-11 15:44:02 --> Config Class Initialized
+INFO - 2018-02-11 15:44:02 --> Hooks Class Initialized
+DEBUG - 2018-02-11 15:44:02 --> UTF-8 Support Enabled
+INFO - 2018-02-11 15:44:02 --> Utf8 Class Initialized
+INFO - 2018-02-11 15:44:02 --> URI Class Initialized
+INFO - 2018-02-11 15:44:02 --> Router Class Initialized
+INFO - 2018-02-11 15:44:02 --> Output Class Initialized
+INFO - 2018-02-11 15:44:02 --> Security Class Initialized
+DEBUG - 2018-02-11 15:44:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-02-11 15:44:02 --> Input Class Initialized
+INFO - 2018-02-11 15:44:02 --> Language Class Initialized
+INFO - 2018-02-11 15:44:02 --> Loader Class Initialized
+INFO - 2018-02-11 15:44:02 --> Helper loaded: url_helper
+DEBUG - 2018-02-11 15:44:02 --> Config file loaded: C:\Users\Yousri\php\workspace\Memento\config/mongo_db.php
+INFO - 2018-02-11 15:44:02 --> Controller Class Initialized
+INFO - 2018-02-11 15:44:02 --> Model Class Initialized
+INFO - 2018-02-11 15:44:02 --> Helper loaded: debug_helper
+INFO - 2018-02-11 15:44:02 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\templates/synapse.php
+INFO - 2018-02-11 15:44:02 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\templates/synapse.php
+INFO - 2018-02-11 15:44:02 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\templates/synapse.php
+INFO - 2018-02-11 15:44:02 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_head_dev.php
+INFO - 2018-02-11 15:44:02 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento.php
+INFO - 2018-02-11 15:44:02 --> File loaded: C:\Users\Yousri\php\workspace\Memento\views\memento_scripts_dev.php
+INFO - 2018-02-11 15:44:02 --> Final output sent to browser
+DEBUG - 2018-02-11 15:44:02 --> Total execution time: 0.0574
