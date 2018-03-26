@@ -1,4 +1,5 @@
 <body>
+    <?php echo '<div>'. $lbs . '</div>'?>
     <div
         class="w3-sidebar w3-bar-block w3-collapse w3-card w3-animate-left"
         style="min-width: 200px;width: 250px" id="mySidebar">
@@ -36,16 +37,5 @@
             }
             ?>
         </div>
-
     </div>
-
-    <script type="text/javascript">
-        function w3_open() {
-            document.getElementById("mySidebar").style.display = "block";
-        }
-        function w3_close() {
-            document.getElementById("mySidebar").style.display = "none";
-        }
-    </script>
-
 </body>

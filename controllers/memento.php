@@ -20,6 +20,7 @@ class Memento extends CI_Controller {
             array_push($data['synapses'], $this->load->view("templates/synapse", $synapse, TRUE));
         }
         $this->load->view('memento_head_dev.php');
+        $data['lbs'] = $this->load->view('templates/lb_edit_synapse',NULL,TRUE);
         $this->load->view("memento", $data);
         $this->load->view("memento_scripts_dev.php");
     }

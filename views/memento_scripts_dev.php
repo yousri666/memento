@@ -5,3 +5,4 @@
 <script src="<?php echo base_url()?>assets/ace/src/ace.js"></script>
 <script src="<?php echo base_url()?>assets/js/code-ground.js"></script>
 <script src="<?php echo base_url()?>assets/js/synapse.js"></script>
+<script src="<?php echo base_url()?>assets/js/memento.js"></script>
