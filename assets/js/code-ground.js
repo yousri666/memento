@@ -1,5 +1,5 @@
 $(function () {
-   //initCodeGround();
+    //initCodeGround();
 });
 
 function initCodeGround(elt) {
@@ -11,4 +11,10 @@ function initCodeGround(elt) {
     codeGround.setTheme("ace/theme/twilight");
     codeGround.session.setMode("ace/mode/c_cpp");
     //codeGround.resize();//force a redraw
+}
+
+function getCodeGroundContent(elt) {
+    var codeGround = ace.edit($(elt).find('.syn-code-ground')[0].id);
+    //console.log(codeGround.getValue());
+    return codeGround.getValue();
 }

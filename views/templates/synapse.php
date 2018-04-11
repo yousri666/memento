@@ -35,7 +35,7 @@
         <h3><?php echo $questions[0] ?></h3>
     </header>
     <div class="w3-row syn-center-row">
-        <div class="w3-container w3-leftbar w3-border-grey syn-main-sentense">
+        <div class="w3-container w3-leftbar w3-border-grey syn-main-sentence">
                 <!--<p>When to use?</p>
                 <hr>
                 <img src="img_avatar3.png" alt="Avatar"
@@ -85,5 +85,5 @@
                 </span>more
             </a>
         </div>	
-    </div>	
+    </div>
 </div>
