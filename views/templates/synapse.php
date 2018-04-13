@@ -49,7 +49,7 @@
         <div class="w3-hide w3-panel w3-light-grey w3-animate-opacity syn-example-container">
             <h4>Example</h4>
             <div class="w3-code" style="position:relative;min-height:100px;">
-                <code  class="syn-code-ground" id="code-ground-<?php echo $_id?>">
+                <code  class="syn-code-ground" id="code-ground-<?php echo $_id ?>">
                     <?php echo $details->code ?>
                 </code>
             </div>		
@@ -57,7 +57,7 @@
         <div class="w3-hide w3-container w3-animate-opacity syn-tags-container">
             <?php
             foreach ($tags as $tag) {
-                echo '<span class="w3-tag w3-color-grey">' . $tag . '</span>';
+                echo '<span class="w3-tag w3-color-grey w3-margin-right">' . $tag . '</span>';
             }
             ?>
             <br>
@@ -66,13 +66,13 @@
     <div class="w3-row w3-light-grey syn-bottom-row">
         <div class="w3-bar">
             <a href="#" class="w3-bar-item w3-button w3-right w3-hover-teal syn-tag-button"
-               onclick="toggleSynElt(this,'.syn-tags-container')">
+               onclick="toggleSynElt(this, '.syn-tags-container')">
                 <span class="fa-stack">
                     <i class="fa fa-tags"></i>
                 </span>
             </a>
             <a href="#" class="w3-bar-item w3-button w3-right w3-hover-teal syn-code-button"
-               onclick="toggleSynElt(this,'.syn-example-container')">
+               onclick="toggleSynElt(this, '.syn-example-container')">
                 <span class="fa-stack">
                     <i class="fa fa-circle-thin fa-stack-2x"></i>
                     <i class="fa fa-code fa-stack-1x"></i>

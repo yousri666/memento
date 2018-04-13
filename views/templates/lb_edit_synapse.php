@@ -14,10 +14,8 @@
             <textarea id="lb-main" class="w3-input w3-border w3-light-grey w3-margin-bottom" type="text" placeholder="Main sentence"></textarea>
             <textarea id="lb-details" class="w3-input w3-border w3-light-grey w3-margin-bottom" type="text" placeholder="Details"></textarea>
             <textarea id="lb-code" class="w3-input w3-border w3-light-grey w3-margin-bottom" type="text" placeholder="Code"></textarea>
-            <textarea id="lb-tags" class="w3-input w3-border w3-light-grey w3-margin-bottom" type="text" placeholder="Code"></textarea>
-            <button class="w3-button w3-block w3-text-white w3-light-green">SAVE</button>
+            <div id="lb-tags" class="w3-row w3-margin-bottom"></div>
+            <button class="w3-button w3-block w3-text-white w3-light-green" onclick="setCodeGroundContent($('#lb-edit-syn').data('code'),$('#lb-code').val())">SAVE</button>
         </form>
-
-
     </div>
 </div>

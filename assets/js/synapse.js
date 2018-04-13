@@ -13,16 +13,19 @@ function toggleSynElt(selector, filter) {
 
 function openSynLB(selector) {
     var $elt = $(selector).parentsUntil('div.w3-card-4.synapse').next();
-    var title = $elt.prev().find('h3').text();
-    var main = $elt.find('.syn-main-sentence').text();
-    var details = $elt.find('.syn-more-container').text();
-    var tags = $elt.find('.syn-tags-container');
-    var code = getCodeGroundContent($elt.find('.syn-example-container'));
+    var $title = $elt.prev().find('h3');
+    var $main = $elt.find('.syn-main-sentence h4');
+    var $details = $elt.find('.syn-more-container h5');
+    var $tags = $elt.find('.syn-tags-container span');
+    var $code = $elt.find('.syn-example-container');
     
-    $('#lb-title').val(title);
-    $('#lb-main').val(main);
-    $('#lb-details').val(details);
-    $('#lb-code').val(code);
-    
+    $('#lb-title').val($title.text());
+    $('#lb-main').val($main.text());
+    $('#lb-details').val($details.text());
+    $('#lb-code').val(getCodeGroundContent($code));
+    $('#lb-tags').html($tags.clone().each(function(){
+       $(this).html($(this).text() + "<i onclick=\"$(this).parent().hide(100)\" class='w3-button'>&times;</i>");
+    }));
+    $("#lb-edit-syn").data("code",$code);
     $('#lb-edit-syn').show(100).css("display","flex");
 }
